@@ -1,0 +1,1525 @@
+2026-09-28 09:00:00 DEBUG payment-service Cache hit for key 409
+2026-09-28 09:00:02 INFO auth-service Request completed in 845 ms
+2026-09-28 09:00:04 INFO order-api Request completed in 601 ms
+2026-09-28 09:00:06 INFO payment-service Request completed in 43 ms
+2026-09-28 09:00:08 INFO db-gateway Request completed in 433 ms
+2026-09-28 09:00:10 INFO payment-service Request completed in 97 ms
+2026-09-28 09:00:12 WARN auth-service Slow query took 851 ms
+2026-09-28 09:00:14 INFO payment-service Request completed in 650 ms
+2026-09-28 09:00:16 INFO db-gateway Request completed in 55 ms
+2026-09-28 09:00:18 INFO auth-service User 575 logged in
+2026-09-28 09:00:20 INFO order-api User 434 logged in
+2026-09-28 09:00:22 INFO auth-service User 589 logged in
+2026-09-28 09:00:24 DEBUG payment-service Cache hit for key 110
+2026-09-28 09:00:26 INFO order-api User 104 logged in
+2026-09-28 09:00:28 INFO auth-service Request completed in 638 ms
+2026-09-28 09:00:30 INFO db-gateway User 701 logged in
+2026-09-28 09:00:32 WARN order-api Slow query took 481 ms
+2026-09-28 09:00:34 WARN order-api Slow query took 311 ms
+2026-09-28 09:00:36 INFO payment-service User 720 logged in
+2026-09-28 09:00:38 INFO auth-service User 593 logged in
+2026-09-28 09:00:40 DEBUG db-gateway Cache hit for key 356
+2026-09-28 09:00:42 WARN order-api Slow query took 628 ms
+2026-09-28 09:00:44 INFO auth-service Request completed in 529 ms
+2026-09-28 09:00:46 WARN payment-service Slow query took 780 ms
+2026-09-28 09:00:48 DEBUG payment-service Cache hit for key 505
+2026-09-28 09:00:50 WARN auth-service Slow query took 689 ms
+2026-09-28 09:00:52 INFO order-api Request completed in 353 ms
+2026-09-28 09:00:54 DEBUG db-gateway Cache hit for key 598
+2026-09-28 09:00:56 WARN auth-service Slow query took 865 ms
+2026-09-28 09:00:58 INFO order-api Request completed in 490 ms
+2026-09-28 09:01:00 INFO auth-service Request completed in 753 ms
+2026-09-28 09:01:02 DEBUG db-gateway Cache hit for key 296
+2026-09-28 09:01:04 WARN order-api Slow query took 28 ms
+2026-09-28 09:01:06 WARN order-api Slow query took 177 ms
+2026-09-28 09:01:08 INFO db-gateway Request completed in 65 ms
+2026-09-28 09:01:10 INFO order-api User 137 logged in
+2026-09-28 09:01:12 INFO db-gateway User 405 logged in
+2026-09-28 09:01:14 WARN auth-service Slow query took 175 ms
+2026-09-28 09:01:16 WARN db-gateway Slow query took 567 ms
+2026-09-28 09:01:18 DEBUG payment-service Cache hit for key 843
+2026-09-28 09:01:20 WARN order-api Slow query took 728 ms
+2026-09-28 09:01:22 WARN order-api Slow query took 704 ms
+2026-09-28 09:01:24 WARN payment-service Slow query took 159 ms
+2026-09-28 09:01:26 INFO payment-service Request completed in 159 ms
+2026-09-28 09:01:28 INFO payment-service User 17 logged in
+2026-09-28 09:01:30 WARN payment-service Slow query took 274 ms
+2026-09-28 09:01:32 DEBUG auth-service Cache hit for key 154
+2026-09-28 09:01:34 WARN order-api Slow query took 629 ms
+2026-09-28 09:01:36 DEBUG payment-service Cache hit for key 712
+2026-09-28 09:01:38 INFO db-gateway Request completed in 896 ms
+2026-09-28 09:01:40 WARN db-gateway Slow query took 413 ms
+2026-09-28 09:01:42 WARN auth-service Slow query took 498 ms
+2026-09-28 09:01:44 WARN auth-service Slow query took 200 ms
+2026-09-28 09:01:46 INFO payment-service Request completed in 456 ms
+2026-09-28 09:01:48 INFO auth-service User 353 logged in
+2026-09-28 09:01:50 INFO auth-service Request completed in 5 ms
+2026-09-28 09:01:52 INFO auth-service User 377 logged in
+2026-09-28 09:01:54 INFO auth-service Request completed in 900 ms
+2026-09-28 09:01:56 INFO db-gateway User 157 logged in
+2026-09-28 09:01:58 DEBUG order-api Cache hit for key 621
+2026-09-28 09:02:00 DEBUG db-gateway Cache hit for key 130
+2026-09-28 09:02:02 INFO db-gateway Request completed in 482 ms
+2026-09-28 09:02:04 WARN db-gateway Slow query took 324 ms
+2026-09-28 09:02:06 INFO payment-service Request completed in 109 ms
+2026-09-28 09:02:08 DEBUG order-api Cache hit for key 495
+2026-09-28 09:02:10 INFO auth-service User 215 logged in
+2026-09-28 09:02:12 DEBUG payment-service Cache hit for key 711
+2026-09-28 09:02:14 INFO order-api Request completed in 663 ms
+2026-09-28 09:02:16 INFO order-api Request completed in 535 ms
+2026-09-28 09:02:18 DEBUG payment-service Cache hit for key 369
+2026-09-28 09:02:20 INFO order-api User 656 logged in
+2026-09-28 09:02:22 INFO payment-service User 830 logged in
+2026-09-28 09:02:24 INFO db-gateway User 762 logged in
+2026-09-28 09:02:26 INFO payment-service User 535 logged in
+2026-09-28 09:02:28 WARN order-api Slow query took 753 ms
+2026-09-28 09:02:30 INFO auth-service Request completed in 814 ms
+2026-09-28 09:02:32 DEBUG db-gateway Cache hit for key 270
+2026-09-28 09:02:34 INFO order-api User 462 logged in
+2026-09-28 09:02:36 DEBUG order-api Cache hit for key 87
+2026-09-28 09:02:38 INFO auth-service User 237 logged in
+2026-09-28 09:02:40 WARN payment-service Slow query took 350 ms
+2026-09-28 09:02:42 INFO db-gateway User 644 logged in
+2026-09-28 09:02:44 INFO db-gateway Request completed in 673 ms
+2026-09-28 09:02:46 DEBUG auth-service Cache hit for key 859
+2026-09-28 09:02:48 INFO db-gateway Request completed in 806 ms
+2026-09-28 09:02:50 INFO db-gateway User 187 logged in
+2026-09-28 09:02:52 WARN order-api Slow query took 93 ms
+2026-09-28 09:02:54 WARN db-gateway Slow query took 416 ms
+2026-09-28 09:02:56 INFO payment-service Request completed in 179 ms
+2026-09-28 09:02:58 INFO auth-service User 159 logged in
+2026-09-28 09:03:00 WARN payment-service Slow query took 631 ms
+2026-09-28 09:03:02 WARN order-api Slow query took 164 ms
+2026-09-28 09:03:04 INFO auth-service User 19 logged in
+2026-09-28 09:03:06 INFO payment-service Request completed in 449 ms
+2026-09-28 09:03:08 INFO payment-service User 33 logged in
+2026-09-28 09:03:10 DEBUG payment-service Cache hit for key 304
+2026-09-28 09:03:12 INFO order-api User 270 logged in
+2026-09-28 09:03:14 WARN payment-service Slow query took 67 ms
+2026-09-28 09:03:16 DEBUG db-gateway Cache hit for key 683
+2026-09-28 09:03:18 WARN payment-service Slow query took 549 ms
+2026-09-28 09:03:20 INFO auth-service User 898 logged in
+2026-09-28 09:03:22 WARN payment-service Slow query took 628 ms
+2026-09-28 09:03:24 INFO payment-service Request completed in 181 ms
+2026-09-28 09:03:26 INFO db-gateway User 638 logged in
+2026-09-28 09:03:28 INFO auth-service Request completed in 338 ms
+2026-09-28 09:03:30 WARN auth-service Slow query took 578 ms
+2026-09-28 09:03:32 INFO payment-service Request completed in 200 ms
+2026-09-28 09:03:34 DEBUG auth-service Cache hit for key 795
+2026-09-28 09:03:36 INFO db-gateway Request completed in 580 ms
+2026-09-28 09:03:38 INFO auth-service Request completed in 458 ms
+2026-09-28 09:03:40 DEBUG payment-service Cache hit for key 714
+2026-09-28 09:03:42 DEBUG db-gateway Cache hit for key 525
+2026-09-28 09:03:44 WARN payment-service Slow query took 720 ms
+2026-09-28 09:03:46 DEBUG payment-service Cache hit for key 865
+2026-09-28 09:03:48 WARN payment-service Slow query took 431 ms
+2026-09-28 09:03:50 INFO db-gateway Request completed in 457 ms
+2026-09-28 09:03:52 DEBUG auth-service Cache hit for key 692
+2026-09-28 09:03:54 INFO db-gateway User 79 logged in
+2026-09-28 09:03:56 INFO order-api User 807 logged in
+2026-09-28 09:03:58 INFO payment-service Request completed in 738 ms
+2026-09-28 09:04:00 DEBUG payment-service Cache hit for key 264
+2026-09-28 09:04:02 INFO db-gateway User 229 logged in
+2026-09-28 09:04:04 INFO db-gateway Request completed in 503 ms
+2026-09-28 09:04:06 INFO payment-service User 170 logged in
+2026-09-28 09:04:08 WARN db-gateway Slow query took 352 ms
+2026-09-28 09:04:10 WARN payment-service Slow query took 370 ms
+2026-09-28 09:04:12 DEBUG auth-service Cache hit for key 744
+2026-09-28 09:04:14 DEBUG auth-service Cache hit for key 351
+2026-09-28 09:04:16 WARN db-gateway Slow query took 725 ms
+2026-09-28 09:04:18 INFO db-gateway Request completed in 344 ms
+2026-09-28 09:04:20 DEBUG auth-service Cache hit for key 120
+2026-09-28 09:04:22 INFO auth-service User 91 logged in
+2026-09-28 09:04:24 DEBUG order-api Cache hit for key 45
+2026-09-28 09:04:26 INFO order-api User 778 logged in
+2026-09-28 09:04:28 INFO db-gateway User 874 logged in
+2026-09-28 09:04:30 DEBUG db-gateway Cache hit for key 157
+2026-09-28 09:04:32 WARN order-api Slow query took 96 ms
+2026-09-28 09:04:34 DEBUG auth-service Cache hit for key 823
+2026-09-28 09:04:36 INFO db-gateway User 79 logged in
+2026-09-28 09:04:38 DEBUG auth-service Cache hit for key 654
+2026-09-28 09:04:40 INFO order-api Request completed in 90 ms
+2026-09-28 09:04:42 INFO auth-service User 275 logged in
+2026-09-28 09:04:44 INFO db-gateway Request completed in 16 ms
+2026-09-28 09:04:46 DEBUG db-gateway Cache hit for key 279
+2026-09-28 09:04:48 INFO auth-service User 544 logged in
+2026-09-28 09:04:50 INFO auth-service User 170 logged in
+2026-09-28 09:04:52 DEBUG auth-service Cache hit for key 190
+2026-09-28 09:04:54 INFO order-api User 648 logged in
+2026-09-28 09:04:56 DEBUG payment-service Cache hit for key 301
+2026-09-28 09:04:58 WARN payment-service Slow query took 282 ms
+2026-09-28 09:05:00 DEBUG auth-service Cache hit for key 261
+2026-09-28 09:05:02 INFO auth-service Request completed in 23 ms
+2026-09-28 09:05:04 INFO db-gateway User 256 logged in
+2026-09-28 09:05:06 WARN auth-service Slow query took 679 ms
+2026-09-28 09:05:08 WARN db-gateway Slow query took 564 ms
+2026-09-28 09:05:10 WARN order-api Slow query took 709 ms
+2026-09-28 09:05:12 INFO payment-service User 355 logged in
+2026-09-28 09:05:14 INFO payment-service User 419 logged in
+2026-09-28 09:05:16 DEBUG auth-service Cache hit for key 862
+2026-09-28 09:05:18 INFO auth-service User 77 logged in
+2026-09-28 09:05:20 DEBUG db-gateway Cache hit for key 172
+2026-09-28 09:05:22 INFO auth-service Request completed in 686 ms
+2026-09-28 09:05:24 WARN order-api Slow query took 618 ms
+2026-09-28 09:05:26 INFO order-api User 51 logged in
+2026-09-28 09:05:28 WARN payment-service Slow query took 166 ms
+2026-09-28 09:05:30 DEBUG db-gateway Cache hit for key 8
+2026-09-28 09:05:32 DEBUG order-api Cache hit for key 341
+2026-09-28 09:05:34 DEBUG payment-service Cache hit for key 40
+2026-09-28 09:05:36 DEBUG payment-service Cache hit for key 370
+2026-09-28 09:05:38 INFO auth-service User 348 logged in
+2026-09-28 09:05:40 WARN auth-service Slow query took 491 ms
+2026-09-28 09:05:42 DEBUG payment-service Cache hit for key 259
+2026-09-28 09:05:44 INFO auth-service Request completed in 275 ms
+2026-09-28 09:05:46 INFO payment-service Request completed in 414 ms
+2026-09-28 09:05:48 INFO db-gateway Request completed in 28 ms
+2026-09-28 09:05:50 DEBUG order-api Cache hit for key 649
+2026-09-28 09:05:52 INFO auth-service User 604 logged in
+2026-09-28 09:05:54 INFO db-gateway User 787 logged in
+2026-09-28 09:05:56 DEBUG db-gateway Cache hit for key 158
+2026-09-28 09:05:58 DEBUG payment-service Cache hit for key 49
+2026-09-28 09:06:00 WARN payment-service Slow query took 541 ms
+2026-09-28 09:06:02 INFO payment-service Request completed in 92 ms
+2026-09-28 09:06:04 INFO auth-service Request completed in 141 ms
+2026-09-28 09:06:06 DEBUG auth-service Cache hit for key 390
+2026-09-28 09:06:08 WARN auth-service Slow query took 647 ms
+2026-09-28 09:06:10 INFO payment-service Request completed in 506 ms
+2026-09-28 09:06:12 DEBUG auth-service Cache hit for key 472
+2026-09-28 09:06:14 INFO auth-service Request completed in 680 ms
+2026-09-28 09:06:16 INFO db-gateway Request completed in 263 ms
+2026-09-28 09:06:18 INFO order-api Request completed in 245 ms
+2026-09-28 09:06:20 INFO payment-service User 762 logged in
+2026-09-28 09:06:22 WARN db-gateway Slow query took 870 ms
+2026-09-28 09:06:24 WARN auth-service Slow query took 495 ms
+2026-09-28 09:06:26 DEBUG auth-service Cache hit for key 636
+2026-09-28 09:06:28 INFO auth-service User 619 logged in
+2026-09-28 09:06:30 INFO order-api User 265 logged in
+2026-09-28 09:06:32 DEBUG payment-service Cache hit for key 17
+2026-09-28 09:06:34 WARN auth-service Slow query took 502 ms
+2026-09-28 09:06:36 DEBUG auth-service Cache hit for key 713
+2026-09-28 09:06:38 INFO db-gateway User 302 logged in
+2026-09-28 09:06:40 DEBUG db-gateway Cache hit for key 482
+2026-09-28 09:06:42 WARN auth-service Slow query took 567 ms
+2026-09-28 09:06:44 INFO order-api User 92 logged in
+2026-09-28 09:06:46 WARN auth-service Slow query took 301 ms
+2026-09-28 09:06:48 WARN auth-service Slow query took 844 ms
+2026-09-28 09:06:50 WARN order-api Slow query took 401 ms
+2026-09-28 09:06:52 INFO payment-service User 81 logged in
+2026-09-28 09:06:54 INFO payment-service Request completed in 770 ms
+2026-09-28 09:06:56 DEBUG order-api Cache hit for key 140
+2026-09-28 09:06:58 DEBUG auth-service Cache hit for key 725
+2026-09-28 09:07:00 DEBUG payment-service Cache hit for key 514
+2026-09-28 09:07:02 WARN db-gateway Slow query took 30 ms
+2026-09-28 09:07:04 INFO auth-service User 508 logged in
+2026-09-28 09:07:06 WARN db-gateway Slow query took 314 ms
+2026-09-28 09:07:08 INFO db-gateway User 357 logged in
+2026-09-28 09:07:10 WARN order-api Slow query took 128 ms
+2026-09-28 09:07:12 DEBUG auth-service Cache hit for key 337
+2026-09-28 09:07:14 DEBUG db-gateway Cache hit for key 127
+2026-09-28 09:07:16 INFO auth-service User 762 logged in
+2026-09-28 09:07:18 DEBUG order-api Cache hit for key 386
+2026-09-28 09:07:20 INFO db-gateway Request completed in 404 ms
+2026-09-28 09:07:22 INFO order-api Request completed in 443 ms
+2026-09-28 09:07:24 DEBUG auth-service Cache hit for key 292
+2026-09-28 09:07:26 INFO auth-service Request completed in 859 ms
+2026-09-28 09:07:28 DEBUG payment-service Cache hit for key 260
+2026-09-28 09:07:30 DEBUG db-gateway Cache hit for key 528
+2026-09-28 09:07:32 DEBUG payment-service Cache hit for key 796
+2026-09-28 09:07:34 DEBUG db-gateway Cache hit for key 34
+2026-09-28 09:07:36 WARN payment-service Slow query took 741 ms
+2026-09-28 09:07:38 INFO auth-service Request completed in 754 ms
+2026-09-28 09:07:40 WARN db-gateway Slow query took 634 ms
+2026-09-28 09:07:42 INFO order-api User 502 logged in
+2026-09-28 09:07:44 INFO payment-service Request completed in 179 ms
+2026-09-28 09:07:46 WARN db-gateway Slow query took 356 ms
+2026-09-28 09:07:48 DEBUG order-api Cache hit for key 266
+2026-09-28 09:07:50 DEBUG db-gateway Cache hit for key 676
+2026-09-28 09:07:52 INFO order-api User 499 logged in
+2026-09-28 09:07:54 WARN auth-service Slow query took 176 ms
+2026-09-28 09:07:56 INFO auth-service User 217 logged in
+2026-09-28 09:07:58 WARN payment-service Slow query took 468 ms
+2026-09-28 09:08:00 DEBUG db-gateway Cache hit for key 442
+2026-09-28 09:08:02 INFO payment-service User 254 logged in
+2026-09-28 09:08:04 INFO payment-service Request completed in 355 ms
+2026-09-28 09:08:06 INFO order-api Request completed in 249 ms
+2026-09-28 09:08:08 DEBUG order-api Cache hit for key 833
+2026-09-28 09:08:10 INFO auth-service User 772 logged in
+2026-09-28 09:08:12 WARN db-gateway Slow query took 428 ms
+2026-09-28 09:08:14 INFO db-gateway User 281 logged in
+2026-09-28 09:08:16 DEBUG auth-service Cache hit for key 515
+2026-09-28 09:08:18 DEBUG order-api Cache hit for key 133
+2026-09-28 09:08:20 INFO auth-service User 282 logged in
+2026-09-28 09:08:22 INFO db-gateway User 414 logged in
+2026-09-28 09:08:24 WARN db-gateway Slow query took 324 ms
+2026-09-28 09:08:26 INFO payment-service Request completed in 38 ms
+2026-09-28 09:08:28 WARN db-gateway Slow query took 606 ms
+2026-09-28 09:08:30 WARN auth-service Slow query took 79 ms
+2026-09-28 09:08:32 WARN db-gateway Slow query took 464 ms
+2026-09-28 09:08:34 INFO auth-service User 234 logged in
+2026-09-28 09:08:36 INFO payment-service User 539 logged in
+2026-09-28 09:08:38 INFO db-gateway Request completed in 92 ms
+2026-09-28 09:08:40 INFO auth-service Request completed in 806 ms
+2026-09-28 09:08:42 INFO payment-service User 588 logged in
+2026-09-28 09:08:44 INFO order-api Request completed in 136 ms
+2026-09-28 09:08:46 DEBUG db-gateway Cache hit for key 720
+2026-09-28 09:08:48 INFO auth-service Request completed in 77 ms
+2026-09-28 09:08:50 DEBUG payment-service Cache hit for key 402
+2026-09-28 09:08:52 DEBUG payment-service Cache hit for key 814
+2026-09-28 09:08:54 INFO auth-service Request completed in 555 ms
+2026-09-28 09:08:56 DEBUG db-gateway Cache hit for key 290
+2026-09-28 09:08:58 DEBUG payment-service Cache hit for key 491
+2026-09-28 09:09:00 INFO payment-service User 34 logged in
+2026-09-28 09:09:02 WARN order-api Slow query took 61 ms
+2026-09-28 09:09:04 INFO payment-service Request completed in 515 ms
+2026-09-28 09:09:06 WARN auth-service Slow query took 268 ms
+2026-09-28 09:09:08 INFO db-gateway User 384 logged in
+2026-09-28 09:09:10 INFO db-gateway User 39 logged in
+2026-09-28 09:09:12 DEBUG db-gateway Cache hit for key 376
+2026-09-28 09:09:14 WARN payment-service Slow query took 11 ms
+2026-09-28 09:09:16 DEBUG auth-service Cache hit for key 215
+2026-09-28 09:09:18 WARN payment-service Slow query took 324 ms
+2026-09-28 09:09:20 INFO payment-service User 481 logged in
+2026-09-28 09:09:22 INFO order-api User 783 logged in
+2026-09-28 09:09:24 DEBUG auth-service Cache hit for key 643
+2026-09-28 09:09:26 WARN payment-service Slow query took 233 ms
+2026-09-28 09:09:28 WARN db-gateway Slow query took 686 ms
+2026-09-28 09:09:30 INFO payment-service Request completed in 407 ms
+2026-09-28 09:09:32 INFO payment-service Request completed in 29 ms
+2026-09-28 09:09:34 INFO db-gateway User 58 logged in
+2026-09-28 09:09:36 INFO payment-service Request completed in 407 ms
+2026-09-28 09:09:38 WARN order-api Slow query took 755 ms
+2026-09-28 09:09:40 INFO auth-service Request completed in 174 ms
+2026-09-28 09:09:42 DEBUG payment-service Cache hit for key 194
+2026-09-28 09:09:44 WARN auth-service Slow query took 324 ms
+2026-09-28 09:09:46 WARN order-api Slow query took 344 ms
+2026-09-28 09:09:48 WARN payment-service Slow query took 116 ms
+2026-09-28 09:09:50 INFO auth-service Request completed in 291 ms
+2026-09-28 09:09:52 INFO order-api Request completed in 435 ms
+2026-09-28 09:09:54 INFO payment-service Request completed in 394 ms
+2026-09-28 09:09:56 DEBUG order-api Cache hit for key 846
+2026-09-28 09:09:58 WARN auth-service Slow query took 55 ms
+2026-09-28 09:10:00 WARN payment-service Slow query took 386 ms
+2026-09-28 09:10:02 WARN payment-service Slow query took 336 ms
+2026-09-28 09:10:04 DEBUG db-gateway Cache hit for key 36
+2026-09-28 09:10:06 WARN payment-service Slow query took 836 ms
+2026-09-28 09:10:08 WARN auth-service Slow query took 389 ms
+2026-09-28 09:10:10 INFO db-gateway Request completed in 69 ms
+2026-09-28 09:10:12 INFO order-api Request completed in 204 ms
+2026-09-28 09:10:14 INFO order-api Request completed in 376 ms
+2026-09-28 09:10:16 DEBUG order-api Cache hit for key 636
+2026-09-28 09:10:18 INFO order-api Request completed in 769 ms
+2026-09-28 09:10:20 DEBUG order-api Cache hit for key 309
+2026-09-28 09:10:22 INFO auth-service Request completed in 29 ms
+2026-09-28 09:10:24 INFO auth-service User 491 logged in
+2026-09-28 09:10:26 WARN db-gateway Slow query took 813 ms
+2026-09-28 09:10:28 DEBUG db-gateway Cache hit for key 839
+2026-09-28 09:10:30 WARN payment-service Slow query took 513 ms
+2026-09-28 09:10:32 INFO auth-service User 826 logged in
+2026-09-28 09:10:34 DEBUG payment-service Cache hit for key 626
+2026-09-28 09:10:36 INFO order-api User 886 logged in
+2026-09-28 09:10:38 DEBUG db-gateway Cache hit for key 375
+2026-09-28 09:10:40 INFO payment-service Request completed in 406 ms
+2026-09-28 09:10:42 INFO payment-service User 422 logged in
+2026-09-28 09:10:44 INFO auth-service Request completed in 498 ms
+2026-09-28 09:10:46 DEBUG payment-service Cache hit for key 441
+2026-09-28 09:10:48 INFO auth-service Request completed in 276 ms
+2026-09-28 09:10:50 INFO payment-service Request completed in 103 ms
+2026-09-28 09:10:52 WARN db-gateway Slow query took 731 ms
+2026-09-28 09:10:54 WARN payment-service Slow query took 244 ms
+2026-09-28 09:10:56 INFO db-gateway User 476 logged in
+2026-09-28 09:10:58 INFO auth-service User 803 logged in
+2026-09-28 09:11:00 DEBUG order-api Cache hit for key 291
+2026-09-28 09:11:02 DEBUG order-api Cache hit for key 265
+2026-09-28 09:11:04 DEBUG payment-service Cache hit for key 454
+2026-09-28 09:11:06 INFO payment-service User 256 logged in
+2026-09-28 09:11:08 INFO payment-service User 293 logged in
+2026-09-28 09:11:10 INFO order-api User 71 logged in
+2026-09-28 09:11:12 WARN order-api Slow query took 256 ms
+2026-09-28 09:11:14 INFO auth-service User 674 logged in
+2026-09-28 09:11:16 WARN auth-service Slow query took 109 ms
+2026-09-28 09:11:18 INFO db-gateway Request completed in 843 ms
+2026-09-28 09:11:20 INFO db-gateway User 387 logged in
+2026-09-28 09:11:22 INFO order-api Request completed in 243 ms
+2026-09-28 09:11:24 INFO auth-service Request completed in 199 ms
+2026-09-28 09:11:26 INFO auth-service User 386 logged in
+2026-09-28 09:11:28 INFO db-gateway User 622 logged in
+2026-09-28 09:11:30 DEBUG auth-service Cache hit for key 113
+2026-09-28 09:11:32 DEBUG payment-service Cache hit for key 43
+2026-09-28 09:11:34 DEBUG order-api Cache hit for key 149
+2026-09-28 09:11:36 INFO payment-service Request completed in 266 ms
+2026-09-28 09:11:38 INFO payment-service Request completed in 839 ms
+2026-09-28 09:11:40 INFO order-api Request completed in 423 ms
+2026-09-28 09:11:42 DEBUG payment-service Cache hit for key 640
+2026-09-28 09:11:44 DEBUG auth-service Cache hit for key 213
+2026-09-28 09:11:46 INFO db-gateway Request completed in 566 ms
+2026-09-28 09:11:48 WARN auth-service Slow query took 422 ms
+2026-09-28 09:11:50 INFO db-gateway Request completed in 684 ms
+2026-09-28 09:11:52 INFO auth-service User 673 logged in
+2026-09-28 09:11:54 INFO db-gateway User 717 logged in
+2026-09-28 09:11:56 DEBUG db-gateway Cache hit for key 295
+2026-09-28 09:11:58 DEBUG db-gateway Cache hit for key 57
+2026-09-28 09:12:00 DEBUG order-api Cache hit for key 429
+2026-09-28 09:12:02 WARN auth-service Slow query took 889 ms
+2026-09-28 09:12:04 DEBUG payment-service Cache hit for key 405
+2026-09-28 09:12:06 WARN payment-service Slow query took 11 ms
+2026-09-28 09:12:08 WARN payment-service Slow query took 438 ms
+2026-09-28 09:12:10 INFO auth-service Request completed in 420 ms
+2026-09-28 09:12:12 DEBUG db-gateway Cache hit for key 796
+2026-09-28 09:12:14 INFO payment-service User 20 logged in
+2026-09-28 09:12:16 INFO payment-service Request completed in 661 ms
+2026-09-28 09:12:18 WARN auth-service Slow query took 591 ms
+2026-09-28 09:12:20 DEBUG payment-service Cache hit for key 154
+2026-09-28 09:12:22 DEBUG order-api Cache hit for key 170
+2026-09-28 09:12:24 INFO auth-service User 116 logged in
+2026-09-28 09:12:26 WARN db-gateway Slow query took 776 ms
+2026-09-28 09:12:28 INFO order-api User 134 logged in
+2026-09-28 09:12:30 INFO db-gateway Request completed in 327 ms
+2026-09-28 09:12:32 INFO db-gateway Request completed in 93 ms
+2026-09-28 09:12:34 INFO payment-service User 640 logged in
+2026-09-28 09:12:36 WARN payment-service Slow query took 854 ms
+2026-09-28 09:12:38 WARN payment-service Slow query took 583 ms
+2026-09-28 09:12:40 INFO auth-service User 414 logged in
+2026-09-28 09:12:42 INFO db-gateway User 372 logged in
+2026-09-28 09:12:44 INFO payment-service Request completed in 257 ms
+2026-09-28 09:12:46 INFO auth-service User 580 logged in
+2026-09-28 09:12:48 INFO order-api Request completed in 125 ms
+2026-09-28 09:12:50 WARN db-gateway Slow query took 568 ms
+2026-09-28 09:12:52 DEBUG db-gateway Cache hit for key 320
+2026-09-28 09:12:54 INFO db-gateway User 403 logged in
+2026-09-28 09:12:56 DEBUG db-gateway Cache hit for key 520
+2026-09-28 09:12:58 WARN payment-service Slow query took 28 ms
+2026-09-28 09:13:00 INFO db-gateway Request completed in 481 ms
+2026-09-28 09:13:02 INFO db-gateway User 786 logged in
+2026-09-28 09:13:04 WARN payment-service Slow query took 834 ms
+2026-09-28 09:13:06 WARN db-gateway Slow query took 114 ms
+2026-09-28 09:13:08 INFO payment-service Request completed in 372 ms
+2026-09-28 09:13:10 WARN order-api Slow query took 98 ms
+2026-09-28 09:13:12 WARN auth-service Slow query took 46 ms
+2026-09-28 09:13:14 INFO auth-service User 756 logged in
+2026-09-28 09:13:16 DEBUG auth-service Cache hit for key 60
+2026-09-28 09:13:18 WARN payment-service Slow query took 31 ms
+2026-09-28 09:13:20 INFO auth-service Request completed in 203 ms
+2026-09-28 09:13:20 ERROR payment-service Database connection timeout after 11s
+2026-09-28 09:13:22 INFO db-gateway User 299 logged in
+2026-09-28 09:13:23 ERROR payment-service Database connection timeout after 14s
+2026-09-28 09:13:24 INFO payment-service User 72 logged in
+2026-09-28 09:13:26 DEBUG order-api Cache hit for key 167
+2026-09-28 09:13:26 ERROR payment-service Database connection timeout after 24s
+2026-09-28 09:13:28 DEBUG order-api Cache hit for key 840
+2026-09-28 09:13:29 ERROR payment-service Database connection timeout after 10s
+2026-09-28 09:13:30 WARN payment-service Slow query took 265 ms
+2026-09-28 09:13:32 WARN payment-service Slow query took 611 ms
+2026-09-28 09:13:32 ERROR payment-service Database connection timeout after 25s
+2026-09-28 09:13:34 DEBUG payment-service Cache hit for key 331
+2026-09-28 09:13:35 ERROR payment-service Database connection timeout after 13s
+2026-09-28 09:13:36 DEBUG auth-service Cache hit for key 208
+2026-09-28 09:13:38 INFO db-gateway User 170 logged in
+2026-09-28 09:13:38 ERROR payment-service Database connection timeout after 13s
+2026-09-28 09:13:40 DEBUG order-api Cache hit for key 390
+2026-09-28 09:13:41 ERROR payment-service Database connection timeout after 15s
+2026-09-28 09:13:42 INFO order-api User 122 logged in
+2026-09-28 09:13:44 INFO order-api Request completed in 898 ms
+2026-09-28 09:13:44 ERROR payment-service Database connection timeout after 14s
+2026-09-28 09:13:46 WARN auth-service Slow query took 263 ms
+2026-09-28 09:13:47 ERROR payment-service Database connection timeout after 26s
+2026-09-28 09:13:48 WARN order-api Slow query took 276 ms
+2026-09-28 09:13:50 WARN order-api Slow query took 596 ms
+2026-09-28 09:13:50 ERROR payment-service Database connection timeout after 15s
+2026-09-28 09:13:52 INFO order-api User 343 logged in
+2026-09-28 09:13:53 ERROR payment-service Database connection timeout after 29s
+2026-09-28 09:13:54 INFO db-gateway Request completed in 240 ms
+2026-09-28 09:13:56 INFO auth-service User 308 logged in
+2026-09-28 09:13:58 DEBUG order-api Cache hit for key 659
+2026-09-28 09:14:00 DEBUG auth-service Cache hit for key 770
+2026-09-28 09:14:02 INFO payment-service Request completed in 157 ms
+2026-09-28 09:14:04 DEBUG db-gateway Cache hit for key 432
+2026-09-28 09:14:06 DEBUG auth-service Cache hit for key 140
+2026-09-28 09:14:08 WARN payment-service Slow query took 632 ms
+2026-09-28 09:14:10 INFO auth-service Request completed in 60 ms
+2026-09-28 09:14:12 INFO order-api Request completed in 316 ms
+2026-09-28 09:14:14 INFO order-api Request completed in 551 ms
+2026-09-28 09:14:16 INFO db-gateway User 602 logged in
+2026-09-28 09:14:18 DEBUG payment-service Cache hit for key 214
+2026-09-28 09:14:20 DEBUG db-gateway Cache hit for key 167
+2026-09-28 09:14:22 INFO auth-service User 825 logged in
+2026-09-28 09:14:24 INFO payment-service User 466 logged in
+2026-09-28 09:14:26 INFO auth-service Request completed in 658 ms
+2026-09-28 09:14:28 INFO order-api User 416 logged in
+2026-09-28 09:14:30 DEBUG auth-service Cache hit for key 62
+2026-09-28 09:14:32 DEBUG db-gateway Cache hit for key 621
+2026-09-28 09:14:34 WARN payment-service Slow query took 174 ms
+2026-09-28 09:14:36 INFO auth-service Request completed in 68 ms
+2026-09-28 09:14:38 INFO db-gateway Request completed in 195 ms
+2026-09-28 09:14:40 INFO payment-service User 64 logged in
+2026-09-28 09:14:42 INFO auth-service Request completed in 632 ms
+2026-09-28 09:14:44 INFO payment-service User 428 logged in
+2026-09-28 09:14:46 INFO db-gateway User 837 logged in
+2026-09-28 09:14:48 INFO order-api User 70 logged in
+2026-09-28 09:14:50 DEBUG auth-service Cache hit for key 746
+2026-09-28 09:14:52 WARN auth-service Slow query took 389 ms
+2026-09-28 09:14:54 WARN db-gateway Slow query took 87 ms
+2026-09-28 09:14:56 WARN payment-service Slow query took 236 ms
+2026-09-28 09:14:58 INFO order-api Request completed in 242 ms
+2026-09-28 09:15:00 INFO auth-service Request completed in 348 ms
+2026-09-28 09:15:02 DEBUG auth-service Cache hit for key 277
+2026-09-28 09:15:04 WARN order-api Slow query took 307 ms
+2026-09-28 09:15:06 INFO auth-service User 524 logged in
+2026-09-28 09:15:08 INFO payment-service Request completed in 271 ms
+2026-09-28 09:15:10 INFO payment-service User 168 logged in
+2026-09-28 09:15:12 DEBUG payment-service Cache hit for key 403
+2026-09-28 09:15:14 DEBUG payment-service Cache hit for key 393
+2026-09-28 09:15:16 WARN db-gateway Slow query took 864 ms
+2026-09-28 09:15:18 INFO auth-service Request completed in 452 ms
+2026-09-28 09:15:20 INFO order-api User 813 logged in
+2026-09-28 09:15:22 INFO db-gateway User 642 logged in
+2026-09-28 09:15:24 INFO payment-service Request completed in 153 ms
+2026-09-28 09:15:26 INFO auth-service Request completed in 119 ms
+2026-09-28 09:15:28 INFO payment-service Request completed in 358 ms
+2026-09-28 09:15:30 INFO auth-service User 36 logged in
+2026-09-28 09:15:32 INFO payment-service Request completed in 714 ms
+2026-09-28 09:15:34 INFO auth-service Request completed in 759 ms
+2026-09-28 09:15:36 INFO auth-service Request completed in 882 ms
+2026-09-28 09:15:38 DEBUG payment-service Cache hit for key 842
+2026-09-28 09:15:40 INFO db-gateway Request completed in 114 ms
+2026-09-28 09:15:42 INFO payment-service User 213 logged in
+2026-09-28 09:15:44 INFO auth-service Request completed in 40 ms
+2026-09-28 09:15:46 INFO order-api Request completed in 493 ms
+2026-09-28 09:15:48 INFO payment-service Request completed in 105 ms
+2026-09-28 09:15:50 INFO order-api User 331 logged in
+2026-09-28 09:15:52 DEBUG db-gateway Cache hit for key 272
+2026-09-28 09:15:54 INFO order-api Request completed in 267 ms
+2026-09-28 09:15:56 DEBUG auth-service Cache hit for key 737
+2026-09-28 09:15:58 DEBUG order-api Cache hit for key 792
+2026-09-28 09:16:00 WARN order-api Slow query took 638 ms
+2026-09-28 09:16:02 INFO db-gateway Request completed in 36 ms
+2026-09-28 09:16:04 WARN auth-service Slow query took 360 ms
+2026-09-28 09:16:06 WARN auth-service Slow query took 555 ms
+2026-09-28 09:16:08 INFO auth-service User 593 logged in
+2026-09-28 09:16:10 DEBUG payment-service Cache hit for key 451
+2026-09-28 09:16:12 INFO payment-service Request completed in 300 ms
+2026-09-28 09:16:14 INFO auth-service Request completed in 361 ms
+2026-09-28 09:16:16 WARN auth-service Slow query took 508 ms
+2026-09-28 09:16:18 INFO db-gateway User 611 logged in
+2026-09-28 09:16:20 DEBUG order-api Cache hit for key 596
+2026-09-28 09:16:22 INFO order-api User 839 logged in
+2026-09-28 09:16:24 INFO payment-service User 515 logged in
+2026-09-28 09:16:26 INFO auth-service User 656 logged in
+2026-09-28 09:16:28 INFO db-gateway Request completed in 811 ms
+2026-09-28 09:16:30 INFO order-api Request completed in 369 ms
+2026-09-28 09:16:32 INFO db-gateway Request completed in 409 ms
+2026-09-28 09:16:34 INFO db-gateway Request completed in 666 ms
+2026-09-28 09:16:36 INFO order-api Request completed in 216 ms
+2026-09-28 09:16:38 DEBUG order-api Cache hit for key 443
+2026-09-28 09:16:40 INFO db-gateway User 650 logged in
+2026-09-28 09:16:42 INFO db-gateway User 134 logged in
+2026-09-28 09:16:44 INFO order-api Request completed in 600 ms
+2026-09-28 09:16:46 DEBUG payment-service Cache hit for key 893
+2026-09-28 09:16:48 WARN order-api Slow query took 178 ms
+2026-09-28 09:16:50 WARN db-gateway Slow query took 710 ms
+2026-09-28 09:16:52 DEBUG payment-service Cache hit for key 134
+2026-09-28 09:16:54 DEBUG db-gateway Cache hit for key 663
+2026-09-28 09:16:56 INFO payment-service User 278 logged in
+2026-09-28 09:16:58 DEBUG payment-service Cache hit for key 745
+2026-09-28 09:17:00 INFO payment-service User 745 logged in
+2026-09-28 09:17:02 DEBUG order-api Cache hit for key 169
+2026-09-28 09:17:04 INFO order-api User 198 logged in
+2026-09-28 09:17:06 DEBUG auth-service Cache hit for key 173
+2026-09-28 09:17:08 INFO payment-service Request completed in 398 ms
+2026-09-28 09:17:10 INFO payment-service User 818 logged in
+2026-09-28 09:17:12 DEBUG order-api Cache hit for key 450
+2026-09-28 09:17:14 DEBUG payment-service Cache hit for key 116
+2026-09-28 09:17:16 INFO order-api Request completed in 216 ms
+2026-09-28 09:17:18 WARN db-gateway Slow query took 39 ms
+2026-09-28 09:17:20 INFO db-gateway Request completed in 879 ms
+2026-09-28 09:17:22 WARN payment-service Slow query took 517 ms
+2026-09-28 09:17:24 DEBUG db-gateway Cache hit for key 27
+2026-09-28 09:17:26 INFO order-api User 623 logged in
+2026-09-28 09:17:28 WARN auth-service Slow query took 763 ms
+2026-09-28 09:17:30 INFO db-gateway User 722 logged in
+2026-09-28 09:17:32 WARN payment-service Slow query took 688 ms
+2026-09-28 09:17:34 INFO payment-service User 661 logged in
+2026-09-28 09:17:36 INFO db-gateway Request completed in 447 ms
+2026-09-28 09:17:38 DEBUG order-api Cache hit for key 648
+2026-09-28 09:17:40 INFO db-gateway Request completed in 253 ms
+2026-09-28 09:17:42 WARN payment-service Slow query took 261 ms
+2026-09-28 09:17:44 WARN db-gateway Slow query took 471 ms
+2026-09-28 09:17:46 INFO db-gateway Request completed in 535 ms
+2026-09-28 09:17:48 INFO order-api User 801 logged in
+2026-09-28 09:17:50 INFO db-gateway Request completed in 856 ms
+2026-09-28 09:17:52 WARN auth-service Slow query took 44 ms
+2026-09-28 09:17:54 DEBUG payment-service Cache hit for key 169
+2026-09-28 09:17:56 INFO order-api User 108 logged in
+2026-09-28 09:17:58 WARN payment-service Slow query took 739 ms
+2026-09-28 09:18:00 WARN auth-service Slow query took 659 ms
+2026-09-28 09:18:02 DEBUG order-api Cache hit for key 425
+2026-09-28 09:18:04 WARN payment-service Slow query took 705 ms
+2026-09-28 09:18:06 INFO db-gateway User 531 logged in
+2026-09-28 09:18:08 INFO order-api Request completed in 657 ms
+2026-09-28 09:18:10 INFO order-api Request completed in 285 ms
+2026-09-28 09:18:12 WARN db-gateway Slow query took 67 ms
+2026-09-28 09:18:14 INFO auth-service Request completed in 433 ms
+2026-09-28 09:18:16 WARN order-api Slow query took 599 ms
+2026-09-28 09:18:18 DEBUG auth-service Cache hit for key 234
+2026-09-28 09:18:20 DEBUG db-gateway Cache hit for key 544
+2026-09-28 09:18:22 INFO db-gateway User 478 logged in
+2026-09-28 09:18:24 INFO payment-service User 137 logged in
+2026-09-28 09:18:26 INFO payment-service Request completed in 485 ms
+2026-09-28 09:18:28 INFO payment-service User 366 logged in
+2026-09-28 09:18:30 WARN db-gateway Slow query took 306 ms
+2026-09-28 09:18:32 INFO db-gateway User 368 logged in
+2026-09-28 09:18:34 INFO order-api User 726 logged in
+2026-09-28 09:18:36 WARN order-api Slow query took 441 ms
+2026-09-28 09:18:38 INFO db-gateway User 7 logged in
+2026-09-28 09:18:40 DEBUG order-api Cache hit for key 255
+2026-09-28 09:18:42 DEBUG order-api Cache hit for key 496
+2026-09-28 09:18:44 WARN db-gateway Slow query took 643 ms
+2026-09-28 09:18:46 INFO order-api Request completed in 161 ms
+2026-09-28 09:18:48 DEBUG db-gateway Cache hit for key 63
+2026-09-28 09:18:50 INFO order-api Request completed in 807 ms
+2026-09-28 09:18:52 INFO order-api User 653 logged in
+2026-09-28 09:18:54 INFO auth-service Request completed in 219 ms
+2026-09-28 09:18:56 INFO order-api Request completed in 261 ms
+2026-09-28 09:18:58 INFO payment-service Request completed in 879 ms
+2026-09-28 09:19:00 INFO payment-service User 799 logged in
+2026-09-28 09:19:02 WARN order-api Slow query took 808 ms
+2026-09-28 09:19:04 INFO payment-service User 417 logged in
+2026-09-28 09:19:06 INFO auth-service User 689 logged in
+2026-09-28 09:19:08 DEBUG payment-service Cache hit for key 511
+2026-09-28 09:19:10 INFO auth-service User 764 logged in
+2026-09-28 09:19:12 WARN auth-service Slow query took 573 ms
+2026-09-28 09:19:14 INFO order-api Request completed in 434 ms
+2026-09-28 09:19:16 INFO payment-service User 489 logged in
+2026-09-28 09:19:18 WARN auth-service Slow query took 500 ms
+2026-09-28 09:19:20 WARN payment-service Slow query took 722 ms
+2026-09-28 09:19:22 WARN payment-service Slow query took 515 ms
+2026-09-28 09:19:24 INFO auth-service User 169 logged in
+2026-09-28 09:19:26 DEBUG db-gateway Cache hit for key 717
+2026-09-28 09:19:28 WARN order-api Slow query took 865 ms
+2026-09-28 09:19:30 WARN order-api Slow query took 441 ms
+2026-09-28 09:19:32 WARN auth-service Slow query took 189 ms
+2026-09-28 09:19:34 DEBUG auth-service Cache hit for key 26
+2026-09-28 09:19:36 INFO order-api Request completed in 833 ms
+2026-09-28 09:19:38 INFO db-gateway Request completed in 501 ms
+2026-09-28 09:19:40 INFO auth-service User 223 logged in
+2026-09-28 09:19:42 WARN payment-service Slow query took 351 ms
+2026-09-28 09:19:44 INFO order-api Request completed in 354 ms
+2026-09-28 09:19:46 WARN payment-service Slow query took 295 ms
+2026-09-28 09:19:48 WARN order-api Slow query took 437 ms
+2026-09-28 09:19:50 DEBUG auth-service Cache hit for key 851
+2026-09-28 09:19:52 DEBUG order-api Cache hit for key 368
+2026-09-28 09:19:54 WARN db-gateway Slow query took 346 ms
+2026-09-28 09:19:56 DEBUG order-api Cache hit for key 213
+2026-09-28 09:19:58 WARN auth-service Slow query took 343 ms
+2026-09-28 09:20:00 INFO order-api User 735 logged in
+2026-09-28 09:20:02 DEBUG payment-service Cache hit for key 605
+2026-09-28 09:20:04 INFO auth-service Request completed in 413 ms
+2026-09-28 09:20:06 WARN auth-service Slow query took 413 ms
+2026-09-28 09:20:08 DEBUG auth-service Cache hit for key 11
+2026-09-28 09:20:10 INFO payment-service Request completed in 846 ms
+2026-09-28 09:20:12 WARN auth-service Slow query took 812 ms
+2026-09-28 09:20:14 WARN payment-service Slow query took 646 ms
+2026-09-28 09:20:16 INFO payment-service Request completed in 45 ms
+2026-09-28 09:20:18 WARN payment-service Slow query took 108 ms
+2026-09-28 09:20:20 INFO auth-service User 436 logged in
+2026-09-28 09:20:22 INFO auth-service Request completed in 382 ms
+2026-09-28 09:20:24 INFO order-api User 580 logged in
+2026-09-28 09:20:26 DEBUG order-api Cache hit for key 194
+2026-09-28 09:20:28 WARN auth-service Slow query took 331 ms
+2026-09-28 09:20:30 INFO db-gateway Request completed in 584 ms
+2026-09-28 09:20:32 INFO db-gateway Request completed in 586 ms
+2026-09-28 09:20:34 INFO auth-service Request completed in 797 ms
+2026-09-28 09:20:36 WARN db-gateway Slow query took 462 ms
+2026-09-28 09:20:38 INFO auth-service Request completed in 701 ms
+2026-09-28 09:20:40 WARN payment-service Slow query took 491 ms
+2026-09-28 09:20:42 WARN auth-service Slow query took 89 ms
+2026-09-28 09:20:44 WARN payment-service Slow query took 160 ms
+2026-09-28 09:20:46 INFO db-gateway Request completed in 9 ms
+2026-09-28 09:20:48 INFO auth-service Request completed in 884 ms
+2026-09-28 09:20:50 INFO payment-service Request completed in 895 ms
+2026-09-28 09:20:52 INFO payment-service Request completed in 488 ms
+2026-09-28 09:20:54 INFO order-api Request completed in 741 ms
+2026-09-28 09:20:56 INFO db-gateway User 756 logged in
+2026-09-28 09:20:58 INFO auth-service User 379 logged in
+2026-09-28 09:21:00 INFO auth-service User 305 logged in
+2026-09-28 09:21:02 WARN db-gateway Slow query took 690 ms
+2026-09-28 09:21:04 DEBUG auth-service Cache hit for key 739
+2026-09-28 09:21:06 INFO auth-service Request completed in 67 ms
+2026-09-28 09:21:08 INFO auth-service Request completed in 403 ms
+2026-09-28 09:21:10 DEBUG order-api Cache hit for key 751
+2026-09-28 09:21:12 INFO db-gateway User 628 logged in
+2026-09-28 09:21:14 INFO order-api Request completed in 381 ms
+2026-09-28 09:21:16 WARN db-gateway Slow query took 698 ms
+2026-09-28 09:21:18 INFO payment-service User 821 logged in
+2026-09-28 09:21:20 INFO order-api Request completed in 665 ms
+2026-09-28 09:21:22 INFO db-gateway User 493 logged in
+2026-09-28 09:21:24 WARN db-gateway Slow query took 283 ms
+2026-09-28 09:21:26 DEBUG order-api Cache hit for key 291
+2026-09-28 09:21:28 INFO order-api Request completed in 895 ms
+2026-09-28 09:21:30 INFO payment-service Request completed in 620 ms
+2026-09-28 09:21:32 DEBUG db-gateway Cache hit for key 257
+2026-09-28 09:21:34 WARN db-gateway Slow query took 706 ms
+2026-09-28 09:21:36 WARN payment-service Slow query took 831 ms
+2026-09-28 09:21:38 WARN order-api Slow query took 710 ms
+2026-09-28 09:21:40 INFO order-api Request completed in 274 ms
+2026-09-28 09:21:42 DEBUG db-gateway Cache hit for key 166
+2026-09-28 09:21:44 INFO order-api Request completed in 858 ms
+2026-09-28 09:21:46 INFO payment-service User 285 logged in
+2026-09-28 09:21:48 WARN order-api Slow query took 552 ms
+2026-09-28 09:21:50 INFO db-gateway Request completed in 821 ms
+2026-09-28 09:21:52 WARN payment-service Slow query took 811 ms
+2026-09-28 09:21:54 INFO order-api User 626 logged in
+2026-09-28 09:21:56 INFO db-gateway Request completed in 481 ms
+2026-09-28 09:21:58 INFO order-api User 605 logged in
+2026-09-28 09:22:00 INFO db-gateway Request completed in 475 ms
+2026-09-28 09:22:02 INFO order-api Request completed in 795 ms
+2026-09-28 09:22:04 INFO payment-service Request completed in 412 ms
+2026-09-28 09:22:06 DEBUG order-api Cache hit for key 493
+2026-09-28 09:22:08 INFO payment-service User 222 logged in
+2026-09-28 09:22:10 INFO auth-service User 190 logged in
+2026-09-28 09:22:12 DEBUG order-api Cache hit for key 596
+2026-09-28 09:22:14 DEBUG db-gateway Cache hit for key 803
+2026-09-28 09:22:16 INFO payment-service User 50 logged in
+2026-09-28 09:22:18 WARN order-api Slow query took 892 ms
+2026-09-28 09:22:20 INFO order-api Request completed in 652 ms
+2026-09-28 09:22:22 WARN auth-service Slow query took 164 ms
+2026-09-28 09:22:24 DEBUG auth-service Cache hit for key 358
+2026-09-28 09:22:26 DEBUG auth-service Cache hit for key 101
+2026-09-28 09:22:28 INFO payment-service Request completed in 896 ms
+2026-09-28 09:22:30 WARN payment-service Slow query took 272 ms
+2026-09-28 09:22:32 DEBUG db-gateway Cache hit for key 104
+2026-09-28 09:22:34 WARN payment-service Slow query took 265 ms
+2026-09-28 09:22:36 INFO order-api Request completed in 210 ms
+2026-09-28 09:22:38 INFO db-gateway User 90 logged in
+2026-09-28 09:22:40 INFO auth-service Request completed in 40 ms
+2026-09-28 09:22:42 DEBUG db-gateway Cache hit for key 503
+2026-09-28 09:22:44 INFO db-gateway Request completed in 127 ms
+2026-09-28 09:22:46 INFO order-api Request completed in 331 ms
+2026-09-28 09:22:48 INFO auth-service User 690 logged in
+2026-09-28 09:22:50 WARN payment-service Slow query took 464 ms
+2026-09-28 09:22:52 INFO order-api User 245 logged in
+2026-09-28 09:22:54 INFO payment-service User 44 logged in
+2026-09-28 09:22:56 DEBUG order-api Cache hit for key 65
+2026-09-28 09:22:58 INFO auth-service Request completed in 269 ms
+2026-09-28 09:23:00 WARN auth-service Slow query took 108 ms
+2026-09-28 09:23:02 INFO order-api User 778 logged in
+2026-09-28 09:23:04 INFO payment-service Request completed in 698 ms
+2026-09-28 09:23:06 DEBUG db-gateway Cache hit for key 781
+2026-09-28 09:23:08 INFO db-gateway Request completed in 336 ms
+2026-09-28 09:23:10 DEBUG order-api Cache hit for key 404
+2026-09-28 09:23:12 INFO order-api Request completed in 497 ms
+2026-09-28 09:23:14 WARN payment-service Slow query took 456 ms
+2026-09-28 09:23:16 INFO payment-service User 698 logged in
+2026-09-28 09:23:18 INFO db-gateway Request completed in 739 ms
+2026-09-28 09:23:20 INFO auth-service User 165 logged in
+2026-09-28 09:23:22 INFO auth-service User 638 logged in
+2026-09-28 09:23:24 DEBUG payment-service Cache hit for key 801
+2026-09-28 09:23:26 WARN auth-service Slow query took 399 ms
+2026-09-28 09:23:28 INFO auth-service Request completed in 468 ms
+2026-09-28 09:23:30 DEBUG order-api Cache hit for key 847
+2026-09-28 09:23:32 INFO db-gateway User 123 logged in
+2026-09-28 09:23:34 DEBUG payment-service Cache hit for key 344
+2026-09-28 09:23:36 INFO auth-service User 189 logged in
+2026-09-28 09:23:38 WARN payment-service Slow query took 454 ms
+2026-09-28 09:23:40 INFO order-api User 433 logged in
+2026-09-28 09:23:42 WARN payment-service Slow query took 164 ms
+2026-09-28 09:23:44 INFO order-api Request completed in 589 ms
+2026-09-28 09:23:46 DEBUG order-api Cache hit for key 828
+2026-09-28 09:23:48 INFO order-api User 507 logged in
+2026-09-28 09:23:50 INFO order-api Request completed in 472 ms
+2026-09-28 09:23:52 WARN auth-service Slow query took 162 ms
+2026-09-28 09:23:54 INFO payment-service Request completed in 578 ms
+2026-09-28 09:23:56 WARN order-api Slow query took 127 ms
+2026-09-28 09:23:58 DEBUG payment-service Cache hit for key 378
+2026-09-28 09:24:00 WARN order-api Slow query took 249 ms
+2026-09-28 09:24:02 INFO auth-service User 404 logged in
+2026-09-28 09:24:04 DEBUG db-gateway Cache hit for key 171
+2026-09-28 09:24:06 INFO order-api Request completed in 152 ms
+2026-09-28 09:24:08 INFO db-gateway Request completed in 831 ms
+2026-09-28 09:24:10 DEBUG payment-service Cache hit for key 458
+2026-09-28 09:24:12 INFO order-api Request completed in 195 ms
+2026-09-28 09:24:14 DEBUG db-gateway Cache hit for key 46
+2026-09-28 09:24:16 WARN payment-service Slow query took 288 ms
+2026-09-28 09:24:18 INFO payment-service User 868 logged in
+2026-09-28 09:24:20 INFO payment-service User 733 logged in
+2026-09-28 09:24:22 INFO payment-service User 620 logged in
+2026-09-28 09:24:24 INFO auth-service Request completed in 628 ms
+2026-09-28 09:24:26 WARN order-api Slow query took 184 ms
+2026-09-28 09:24:28 INFO payment-service User 632 logged in
+2026-09-28 09:24:30 INFO order-api User 212 logged in
+2026-09-28 09:24:32 INFO auth-service Request completed in 713 ms
+2026-09-28 09:24:34 WARN auth-service Slow query took 535 ms
+2026-09-28 09:24:36 DEBUG order-api Cache hit for key 293
+2026-09-28 09:24:38 WARN auth-service Slow query took 20 ms
+2026-09-28 09:24:40 WARN db-gateway Slow query took 141 ms
+2026-09-28 09:24:42 DEBUG payment-service Cache hit for key 195
+2026-09-28 09:24:44 DEBUG auth-service Cache hit for key 172
+2026-09-28 09:24:46 DEBUG auth-service Cache hit for key 369
+2026-09-28 09:24:48 WARN auth-service Slow query took 128 ms
+2026-09-28 09:24:50 DEBUG payment-service Cache hit for key 841
+2026-09-28 09:24:52 DEBUG db-gateway Cache hit for key 595
+2026-09-28 09:24:54 INFO order-api Request completed in 898 ms
+2026-09-28 09:24:56 INFO db-gateway Request completed in 462 ms
+2026-09-28 09:24:58 INFO payment-service Request completed in 26 ms
+2026-09-28 09:25:00 INFO auth-service User 234 logged in
+2026-09-28 09:25:00 ERROR order-api Unhandled exception in checkout
+Traceback (most recent call last):
+  File "orders.py", line 88, in checkout
+KeyError: 'cart_id'
+2026-09-28 09:25:02 INFO payment-service User 110 logged in
+2026-09-28 09:25:04 DEBUG order-api Cache hit for key 573
+2026-09-28 09:25:06 INFO auth-service Request completed in 103 ms
+2026-09-28 09:25:08 INFO order-api User 23 logged in
+2026-09-28 09:25:10 WARN payment-service Slow query took 724 ms
+2026-09-28 09:25:12 WARN auth-service Slow query took 364 ms
+2026-09-28 09:25:14 INFO payment-service Request completed in 51 ms
+2026-09-28 09:25:16 DEBUG auth-service Cache hit for key 481
+2026-09-28 09:25:18 WARN order-api Slow query took 117 ms
+2026-09-28 09:25:20 INFO auth-service Request completed in 420 ms
+2026-09-28 09:25:22 INFO payment-service User 886 logged in
+2026-09-28 09:25:24 INFO payment-service User 689 logged in
+2026-09-28 09:25:26 WARN db-gateway Slow query took 173 ms
+2026-09-28 09:25:28 INFO db-gateway Request completed in 715 ms
+2026-09-28 09:25:30 WARN auth-service Slow query took 410 ms
+2026-09-28 09:25:32 INFO order-api Request completed in 351 ms
+2026-09-28 09:25:34 WARN payment-service Slow query took 863 ms
+2026-09-28 09:25:36 DEBUG db-gateway Cache hit for key 868
+2026-09-28 09:25:38 DEBUG db-gateway Cache hit for key 872
+2026-09-28 09:25:40 INFO order-api Request completed in 534 ms
+2026-09-28 09:25:42 INFO order-api User 260 logged in
+2026-09-28 09:25:44 WARN auth-service Slow query took 378 ms
+2026-09-28 09:25:46 INFO payment-service Request completed in 75 ms
+2026-09-28 09:25:48 DEBUG db-gateway Cache hit for key 210
+2026-09-28 09:25:50 INFO payment-service Request completed in 147 ms
+2026-09-28 09:25:52 WARN db-gateway Slow query took 800 ms
+2026-09-28 09:25:54 WARN auth-service Slow query took 833 ms
+2026-09-28 09:25:56 INFO auth-service Request completed in 891 ms
+2026-09-28 09:25:58 DEBUG order-api Cache hit for key 648
+2026-09-28 09:26:00 INFO auth-service Request completed in 261 ms
+2026-09-28 09:26:02 INFO auth-service Request completed in 449 ms
+2026-09-28 09:26:04 INFO auth-service User 299 logged in
+2026-09-28 09:26:06 INFO order-api Request completed in 360 ms
+2026-09-28 09:26:08 INFO auth-service User 66 logged in
+2026-09-28 09:26:10 DEBUG auth-service Cache hit for key 482
+2026-09-28 09:26:12 INFO db-gateway User 131 logged in
+2026-09-28 09:26:14 INFO order-api User 421 logged in
+2026-09-28 09:26:16 DEBUG order-api Cache hit for key 254
+2026-09-28 09:26:18 INFO order-api Request completed in 864 ms
+2026-09-28 09:26:20 WARN payment-service Slow query took 670 ms
+2026-09-28 09:26:22 WARN payment-service Slow query took 566 ms
+2026-09-28 09:26:24 DEBUG db-gateway Cache hit for key 566
+2026-09-28 09:26:26 DEBUG db-gateway Cache hit for key 485
+2026-09-28 09:26:28 DEBUG auth-service Cache hit for key 253
+2026-09-28 09:26:30 DEBUG payment-service Cache hit for key 198
+2026-09-28 09:26:32 WARN db-gateway Slow query took 17 ms
+2026-09-28 09:26:34 DEBUG payment-service Cache hit for key 887
+2026-09-28 09:26:36 INFO order-api User 575 logged in
+2026-09-28 09:26:38 DEBUG db-gateway Cache hit for key 281
+2026-09-28 09:26:40 DEBUG payment-service Cache hit for key 307
+2026-09-28 09:26:42 INFO auth-service Request completed in 167 ms
+2026-09-28 09:26:44 INFO order-api Request completed in 455 ms
+2026-09-28 09:26:46 INFO db-gateway Request completed in 859 ms
+2026-09-28 09:26:48 WARN order-api Slow query took 758 ms
+2026-09-28 09:26:50 INFO payment-service Request completed in 698 ms
+2026-09-28 09:26:52 INFO db-gateway User 350 logged in
+2026-09-28 09:26:54 DEBUG payment-service Cache hit for key 696
+2026-09-28 09:26:56 INFO order-api User 845 logged in
+2026-09-28 09:26:58 INFO db-gateway Request completed in 280 ms
+2026-09-28 09:27:00 INFO db-gateway User 896 logged in
+2026-09-28 09:27:02 INFO auth-service Request completed in 425 ms
+2026-09-28 09:27:04 INFO db-gateway Request completed in 412 ms
+2026-09-28 09:27:06 INFO db-gateway User 875 logged in
+2026-09-28 09:27:08 DEBUG auth-service Cache hit for key 393
+2026-09-28 09:27:10 WARN db-gateway Slow query took 299 ms
+2026-09-28 09:27:12 DEBUG order-api Cache hit for key 366
+2026-09-28 09:27:14 WARN db-gateway Slow query took 668 ms
+2026-09-28 09:27:16 DEBUG auth-service Cache hit for key 810
+2026-09-28 09:27:18 WARN db-gateway Slow query took 459 ms
+2026-09-28 09:27:20 DEBUG payment-service Cache hit for key 554
+2026-09-28 09:27:22 DEBUG payment-service Cache hit for key 451
+2026-09-28 09:27:24 WARN payment-service Slow query took 95 ms
+2026-09-28 09:27:26 DEBUG order-api Cache hit for key 868
+2026-09-28 09:27:28 INFO order-api User 214 logged in
+2026-09-28 09:27:30 WARN auth-service Slow query took 31 ms
+2026-09-28 09:27:32 INFO order-api Request completed in 583 ms
+2026-09-28 09:27:34 WARN order-api Slow query took 554 ms
+2026-09-28 09:27:36 DEBUG db-gateway Cache hit for key 534
+2026-09-28 09:27:38 WARN db-gateway Slow query took 480 ms
+2026-09-28 09:27:40 DEBUG auth-service Cache hit for key 613
+2026-09-28 09:27:42 DEBUG db-gateway Cache hit for key 15
+2026-09-28 09:27:44 INFO payment-service Request completed in 106 ms
+2026-09-28 09:27:46 WARN order-api Slow query took 517 ms
+2026-09-28 09:27:48 WARN payment-service Slow query took 197 ms
+2026-09-28 09:27:50 WARN db-gateway Slow query took 416 ms
+2026-09-28 09:27:52 WARN order-api Slow query took 713 ms
+2026-09-28 09:27:54 INFO payment-service Request completed in 376 ms
+2026-09-28 09:27:56 DEBUG order-api Cache hit for key 81
+2026-09-28 09:27:58 DEBUG payment-service Cache hit for key 118
+2026-09-28 09:28:00 DEBUG order-api Cache hit for key 845
+2026-09-28 09:28:02 WARN payment-service Slow query took 541 ms
+2026-09-28 09:28:04 DEBUG payment-service Cache hit for key 522
+2026-09-28 09:28:06 INFO db-gateway User 191 logged in
+2026-09-28 09:28:08 INFO auth-service Request completed in 366 ms
+2026-09-28 09:28:10 INFO db-gateway Request completed in 15 ms
+2026-09-28 09:28:12 INFO order-api Request completed in 732 ms
+2026-09-28 09:28:14 INFO order-api Request completed in 412 ms
+2026-09-28 09:28:16 INFO auth-service Request completed in 689 ms
+2026-09-28 09:28:18 INFO payment-service Request completed in 184 ms
+2026-09-28 09:28:20 WARN order-api Slow query took 897 ms
+2026-09-28 09:28:22 INFO payment-service User 425 logged in
+2026-09-28 09:28:24 INFO payment-service Request completed in 165 ms
+2026-09-28 09:28:26 INFO auth-service Request completed in 107 ms
+2026-09-28 09:28:28 INFO payment-service Request completed in 540 ms
+2026-09-28 09:28:30 WARN db-gateway Slow query took 632 ms
+2026-09-28 09:28:32 WARN auth-service Slow query took 670 ms
+2026-09-28 09:28:34 INFO order-api Request completed in 152 ms
+2026-09-28 09:28:36 INFO order-api User 287 logged in
+2026-09-28 09:28:38 INFO auth-service User 278 logged in
+2026-09-28 09:28:40 INFO auth-service Request completed in 362 ms
+2026-09-28 09:28:42 INFO db-gateway User 643 logged in
+2026-09-28 09:28:44 WARN auth-service Slow query took 60 ms
+2026-09-28 09:28:46 INFO db-gateway User 601 logged in
+2026-09-28 09:28:48 INFO db-gateway Request completed in 60 ms
+2026-09-28 09:28:50 INFO payment-service User 233 logged in
+2026-09-28 09:28:52 INFO payment-service Request completed in 606 ms
+2026-09-28 09:28:54 INFO order-api User 11 logged in
+2026-09-28 09:28:56 WARN order-api Slow query took 433 ms
+2026-09-28 09:28:58 DEBUG db-gateway Cache hit for key 74
+2026-09-28 09:29:00 INFO db-gateway User 696 logged in
+2026-09-28 09:29:02 INFO db-gateway User 321 logged in
+2026-09-28 09:29:04 WARN db-gateway Slow query took 27 ms
+2026-09-28 09:29:06 INFO auth-service User 182 logged in
+2026-09-28 09:29:08 INFO order-api User 393 logged in
+2026-09-28 09:29:10 INFO auth-service User 302 logged in
+2026-09-28 09:29:12 WARN order-api Slow query took 122 ms
+2026-09-28 09:29:14 DEBUG db-gateway Cache hit for key 348
+2026-09-28 09:29:16 WARN auth-service Slow query took 131 ms
+2026-09-28 09:29:18 WARN order-api Slow query took 572 ms
+2026-09-28 09:29:20 INFO db-gateway User 200 logged in
+2026-09-28 09:29:22 WARN order-api Slow query took 357 ms
+2026-09-28 09:29:24 INFO db-gateway User 40 logged in
+2026-09-28 09:29:26 DEBUG auth-service Cache hit for key 354
+2026-09-28 09:29:28 INFO payment-service User 727 logged in
+2026-09-28 09:29:30 INFO auth-service User 206 logged in
+2026-09-28 09:29:32 DEBUG payment-service Cache hit for key 573
+2026-09-28 09:29:34 WARN db-gateway Slow query took 861 ms
+2026-09-28 09:29:36 INFO payment-service User 381 logged in
+2026-09-28 09:29:38 DEBUG payment-service Cache hit for key 744
+2026-09-28 09:29:40 WARN db-gateway Slow query took 649 ms
+2026-09-28 09:29:42 INFO order-api User 492 logged in
+2026-09-28 09:29:44 INFO payment-service User 883 logged in
+2026-09-28 09:29:46 WARN payment-service Slow query took 728 ms
+2026-09-28 09:29:48 DEBUG db-gateway Cache hit for key 606
+2026-09-28 09:29:50 DEBUG payment-service Cache hit for key 418
+2026-09-28 09:29:52 INFO payment-service User 898 logged in
+2026-09-28 09:29:54 INFO auth-service Request completed in 560 ms
+2026-09-28 09:29:56 DEBUG db-gateway Cache hit for key 34
+2026-09-28 09:29:58 INFO order-api User 20 logged in
+2026-09-28 09:30:00 WARN auth-service Slow query took 716 ms
+2026-09-28 09:30:02 INFO payment-service User 333 logged in
+2026-09-28 09:30:04 INFO auth-service User 74 logged in
+2026-09-28 09:30:06 DEBUG order-api Cache hit for key 202
+2026-09-28 09:30:08 INFO order-api Request completed in 95 ms
+2026-09-28 09:30:10 INFO order-api User 134 logged in
+2026-09-28 09:30:12 WARN order-api Slow query took 369 ms
+2026-09-28 09:30:14 WARN db-gateway Slow query took 798 ms
+2026-09-28 09:30:16 INFO order-api User 185 logged in
+2026-09-28 09:30:18 INFO order-api Request completed in 700 ms
+2026-09-28 09:30:20 DEBUG db-gateway Cache hit for key 30
+2026-09-28 09:30:22 WARN payment-service Slow query took 872 ms
+2026-09-28 09:30:24 WARN order-api Slow query took 648 ms
+2026-09-28 09:30:26 INFO payment-service Request completed in 303 ms
+2026-09-28 09:30:28 INFO order-api Request completed in 628 ms
+2026-09-28 09:30:30 INFO auth-service User 419 logged in
+2026-09-28 09:30:32 INFO payment-service Request completed in 446 ms
+2026-09-28 09:30:34 INFO order-api User 164 logged in
+2026-09-28 09:30:36 WARN auth-service Slow query took 570 ms
+2026-09-28 09:30:38 DEBUG payment-service Cache hit for key 583
+2026-09-28 09:30:40 INFO db-gateway User 738 logged in
+2026-09-28 09:30:42 DEBUG db-gateway Cache hit for key 691
+2026-09-28 09:30:44 DEBUG auth-service Cache hit for key 119
+2026-09-28 09:30:46 DEBUG auth-service Cache hit for key 879
+2026-09-28 09:30:48 INFO payment-service Request completed in 702 ms
+2026-09-28 09:30:50 INFO auth-service Request completed in 815 ms
+2026-09-28 09:30:52 DEBUG payment-service Cache hit for key 800
+2026-09-28 09:30:54 DEBUG auth-service Cache hit for key 432
+2026-09-28 09:30:56 WARN payment-service Slow query took 292 ms
+2026-09-28 09:30:58 INFO order-api Request completed in 439 ms
+2026-09-28 09:31:00 WARN order-api Slow query took 713 ms
+2026-09-28 09:31:02 WARN auth-service Slow query took 697 ms
+2026-09-28 09:31:04 INFO db-gateway User 694 logged in
+2026-09-28 09:31:06 INFO db-gateway User 785 logged in
+2026-09-28 09:31:08 INFO auth-service User 724 logged in
+2026-09-28 09:31:10 DEBUG payment-service Cache hit for key 564
+2026-09-28 09:31:12 INFO payment-service User 561 logged in
+2026-09-28 09:31:14 DEBUG payment-service Cache hit for key 65
+2026-09-28 09:31:16 INFO order-api User 360 logged in
+2026-09-28 09:31:18 WARN auth-service Slow query took 211 ms
+2026-09-28 09:31:20 DEBUG payment-service Cache hit for key 144
+2026-09-28 09:31:22 WARN db-gateway Slow query took 248 ms
+2026-09-28 09:31:24 INFO auth-service User 532 logged in
+2026-09-28 09:31:26 WARN payment-service Slow query took 661 ms
+2026-09-28 09:31:28 DEBUG order-api Cache hit for key 141
+2026-09-28 09:31:30 INFO payment-service User 346 logged in
+2026-09-28 09:31:32 INFO db-gateway Request completed in 783 ms
+2026-09-28 09:31:34 INFO payment-service User 618 logged in
+2026-09-28 09:31:36 WARN db-gateway Slow query took 856 ms
+2026-09-28 09:31:38 INFO auth-service User 711 logged in
+2026-09-28 09:31:40 DEBUG auth-service Cache hit for key 374
+2026-09-28 09:31:42 WARN payment-service Slow query took 49 ms
+2026-09-28 09:31:44 INFO order-api Request completed in 316 ms
+2026-09-28 09:31:46 INFO auth-service User 723 logged in
+2026-09-28 09:31:48 DEBUG db-gateway Cache hit for key 120
+2026-09-28 09:31:50 INFO order-api User 460 logged in
+2026-09-28 09:31:52 WARN order-api Slow query took 301 ms
+2026-09-28 09:31:54 INFO auth-service User 51 logged in
+2026-09-28 09:31:56 INFO db-gateway Request completed in 773 ms
+2026-09-28 09:31:58 WARN auth-service Slow query took 770 ms
+2026-09-28 09:32:00 DEBUG order-api Cache hit for key 116
+2026-09-28 09:32:02 WARN db-gateway Slow query took 505 ms
+2026-09-28 09:32:04 INFO order-api User 13 logged in
+2026-09-28 09:32:06 DEBUG auth-service Cache hit for key 664
+2026-09-28 09:32:08 DEBUG order-api Cache hit for key 673
+2026-09-28 09:32:10 INFO auth-service User 146 logged in
+2026-09-28 09:32:12 INFO auth-service Request completed in 798 ms
+2026-09-28 09:32:14 WARN payment-service Slow query took 308 ms
+2026-09-28 09:32:16 DEBUG payment-service Cache hit for key 658
+2026-09-28 09:32:18 INFO auth-service User 808 logged in
+2026-09-28 09:32:20 DEBUG order-api Cache hit for key 393
+2026-09-28 09:32:22 INFO order-api User 332 logged in
+2026-09-28 09:32:24 INFO order-api User 144 logged in
+2026-09-28 09:32:26 DEBUG order-api Cache hit for key 250
+2026-09-28 09:32:28 INFO auth-service Request completed in 114 ms
+2026-09-28 09:32:30 WARN auth-service Slow query took 226 ms
+2026-09-28 09:32:32 WARN db-gateway Slow query took 516 ms
+2026-09-28 09:32:34 INFO order-api User 622 logged in
+2026-09-28 09:32:36 INFO payment-service Request completed in 709 ms
+2026-09-28 09:32:38 INFO payment-service User 146 logged in
+2026-09-28 09:32:40 WARN db-gateway Slow query took 96 ms
+2026-09-28 09:32:42 INFO db-gateway Request completed in 495 ms
+2026-09-28 09:32:44 INFO payment-service User 745 logged in
+2026-09-28 09:32:46 DEBUG auth-service Cache hit for key 37
+2026-09-28 09:32:48 WARN payment-service Slow query took 295 ms
+2026-09-28 09:32:50 INFO auth-service Request completed in 531 ms
+2026-09-28 09:32:52 WARN order-api Slow query took 69 ms
+2026-09-28 09:32:54 WARN auth-service Slow query took 687 ms
+2026-09-28 09:32:56 INFO payment-service User 392 logged in
+2026-09-28 09:32:58 DEBUG auth-service Cache hit for key 458
+2026-09-28 09:33:00 DEBUG payment-service Cache hit for key 485
+2026-09-28 09:33:02 INFO order-api Request completed in 534 ms
+2026-09-28 09:33:04 WARN db-gateway Slow query took 552 ms
+2026-09-28 09:33:06 INFO db-gateway User 628 logged in
+2026-09-28 09:33:08 INFO auth-service Request completed in 745 ms
+2026-09-28 09:33:10 DEBUG order-api Cache hit for key 583
+2026-09-28 09:33:12 WARN order-api Slow query took 497 ms
+2026-09-28 09:33:14 INFO order-api User 891 logged in
+2026-09-28 09:33:16 DEBUG auth-service Cache hit for key 873
+2026-09-28 09:33:18 INFO payment-service User 699 logged in
+2026-09-28 09:33:20 WARN auth-service Slow query took 155 ms
+2026-09-28 09:33:20 ERROR auth-service Unauthorized access attempt from 10.0.0.133
+2026-09-28 09:33:22 DEBUG db-gateway Cache hit for key 373
+2026-09-28 09:33:24 INFO db-gateway User 410 logged in
+2026-09-28 09:33:25 ERROR auth-service Unauthorized access attempt from 10.0.0.84
+2026-09-28 09:33:26 DEBUG auth-service Cache hit for key 237
+2026-09-28 09:33:28 INFO payment-service User 566 logged in
+2026-09-28 09:33:30 INFO payment-service Request completed in 887 ms
+2026-09-28 09:33:30 ERROR auth-service Unauthorized access attempt from 10.0.0.29
+2026-09-28 09:33:32 DEBUG auth-service Cache hit for key 197
+2026-09-28 09:33:34 DEBUG db-gateway Cache hit for key 237
+2026-09-28 09:33:35 ERROR auth-service Unauthorized access attempt from 10.0.0.132
+2026-09-28 09:33:36 WARN payment-service Slow query took 559 ms
+2026-09-28 09:33:38 INFO auth-service Request completed in 876 ms
+2026-09-28 09:33:40 WARN auth-service Slow query took 824 ms
+2026-09-28 09:33:40 ERROR auth-service Unauthorized access attempt from 10.0.0.203
+2026-09-28 09:33:42 WARN payment-service Slow query took 889 ms
+2026-09-28 09:33:44 INFO auth-service Request completed in 476 ms
+2026-09-28 09:33:45 ERROR auth-service Unauthorized access attempt from 10.0.0.246
+2026-09-28 09:33:46 WARN payment-service Slow query took 201 ms
+2026-09-28 09:33:48 WARN auth-service Slow query took 145 ms
+2026-09-28 09:33:50 DEBUG auth-service Cache hit for key 419
+2026-09-28 09:33:50 ERROR auth-service Unauthorized access attempt from 10.0.0.229
+2026-09-28 09:33:52 INFO auth-service User 386 logged in
+2026-09-28 09:33:54 INFO auth-service Request completed in 723 ms
+2026-09-28 09:33:55 ERROR auth-service Unauthorized access attempt from 10.0.0.99
+2026-09-28 09:33:56 INFO db-gateway User 312 logged in
+2026-09-28 09:33:58 INFO payment-service Request completed in 441 ms
+2026-09-28 09:34:00 INFO payment-service Request completed in 581 ms
+2026-09-28 09:34:02 INFO order-api Request completed in 177 ms
+2026-09-28 09:34:04 DEBUG order-api Cache hit for key 828
+2026-09-28 09:34:06 INFO order-api Request completed in 130 ms
+2026-09-28 09:34:08 INFO order-api User 530 logged in
+2026-09-28 09:34:10 DEBUG db-gateway Cache hit for key 49
+2026-09-28 09:34:12 DEBUG auth-service Cache hit for key 369
+2026-09-28 09:34:14 DEBUG auth-service Cache hit for key 39
+2026-09-28 09:34:16 INFO order-api User 367 logged in
+2026-09-28 09:34:18 INFO db-gateway User 26 logged in
+2026-09-28 09:34:20 WARN auth-service Slow query took 815 ms
+2026-09-28 09:34:22 INFO db-gateway Request completed in 118 ms
+2026-09-28 09:34:24 INFO order-api Request completed in 194 ms
+2026-09-28 09:34:26 INFO order-api User 899 logged in
+2026-09-28 09:34:28 WARN payment-service Slow query took 607 ms
+2026-09-28 09:34:30 DEBUG order-api Cache hit for key 459
+2026-09-28 09:34:32 INFO auth-service Request completed in 355 ms
+2026-09-28 09:34:34 INFO db-gateway User 518 logged in
+2026-09-28 09:34:36 WARN auth-service Slow query took 824 ms
+2026-09-28 09:34:38 INFO auth-service Request completed in 191 ms
+2026-09-28 09:34:40 WARN db-gateway Slow query took 167 ms
+2026-09-28 09:34:42 WARN db-gateway Slow query took 239 ms
+2026-09-28 09:34:44 INFO order-api Request completed in 342 ms
+2026-09-28 09:34:46 INFO order-api User 139 logged in
+2026-09-28 09:34:48 INFO payment-service Request completed in 178 ms
+2026-09-28 09:34:50 DEBUG db-gateway Cache hit for key 344
+2026-09-28 09:34:52 WARN db-gateway Slow query took 367 ms
+2026-09-28 09:34:54 DEBUG auth-service Cache hit for key 348
+2026-09-28 09:34:56 WARN order-api Slow query took 237 ms
+2026-09-28 09:34:58 INFO payment-service Request completed in 475 ms
+2026-09-28 09:35:00 INFO payment-service Request completed in 749 ms
+2026-09-28 09:35:02 INFO order-api User 398 logged in
+2026-09-28 09:35:04 DEBUG auth-service Cache hit for key 517
+2026-09-28 09:35:06 DEBUG order-api Cache hit for key 587
+2026-09-28 09:35:08 INFO auth-service User 579 logged in
+2026-09-28 09:35:10 INFO payment-service Request completed in 797 ms
+2026-09-28 09:35:12 WARN auth-service Slow query took 376 ms
+2026-09-28 09:35:14 DEBUG payment-service Cache hit for key 898
+2026-09-28 09:35:16 INFO auth-service User 316 logged in
+2026-09-28 09:35:18 DEBUG order-api Cache hit for key 526
+2026-09-28 09:35:20 INFO order-api User 898 logged in
+2026-09-28 09:35:22 WARN order-api Slow query took 66 ms
+2026-09-28 09:35:24 DEBUG order-api Cache hit for key 806
+2026-09-28 09:35:26 WARN order-api Slow query took 254 ms
+2026-09-28 09:35:28 INFO order-api User 159 logged in
+2026-09-28 09:35:30 INFO payment-service User 12 logged in
+2026-09-28 09:35:32 WARN db-gateway Slow query took 461 ms
+2026-09-28 09:35:34 WARN order-api Slow query took 177 ms
+2026-09-28 09:35:36 INFO payment-service Request completed in 313 ms
+2026-09-28 09:35:38 DEBUG order-api Cache hit for key 749
+2026-09-28 09:35:40 DEBUG auth-service Cache hit for key 199
+2026-09-28 09:35:42 INFO payment-service Request completed in 316 ms
+2026-09-28 09:35:44 DEBUG db-gateway Cache hit for key 370
+2026-09-28 09:35:46 WARN auth-service Slow query took 863 ms
+2026-09-28 09:35:48 WARN order-api Slow query took 184 ms
+2026-09-28 09:35:50 DEBUG order-api Cache hit for key 564
+2026-09-28 09:35:52 INFO payment-service Request completed in 646 ms
+2026-09-28 09:35:54 DEBUG payment-service Cache hit for key 726
+2026-09-28 09:35:56 INFO payment-service Request completed in 53 ms
+2026-09-28 09:35:58 WARN db-gateway Slow query took 210 ms
+2026-09-28 09:36:00 DEBUG auth-service Cache hit for key 206
+2026-09-28 09:36:02 INFO auth-service User 137 logged in
+2026-09-28 09:36:04 INFO auth-service Request completed in 80 ms
+2026-09-28 09:36:06 DEBUG payment-service Cache hit for key 10
+2026-09-28 09:36:08 INFO order-api User 554 logged in
+2026-09-28 09:36:10 INFO order-api Request completed in 33 ms
+2026-09-28 09:36:12 INFO order-api User 339 logged in
+2026-09-28 09:36:14 INFO db-gateway Request completed in 420 ms
+2026-09-28 09:36:16 DEBUG payment-service Cache hit for key 63
+2026-09-28 09:36:18 WARN auth-service Slow query took 94 ms
+2026-09-28 09:36:20 DEBUG db-gateway Cache hit for key 617
+2026-09-28 09:36:22 WARN order-api Slow query took 479 ms
+2026-09-28 09:36:24 INFO auth-service Request completed in 329 ms
+2026-09-28 09:36:26 DEBUG auth-service Cache hit for key 430
+2026-09-28 09:36:28 DEBUG payment-service Cache hit for key 100
+2026-09-28 09:36:30 INFO payment-service Request completed in 220 ms
+2026-09-28 09:36:32 INFO auth-service User 371 logged in
+2026-09-28 09:36:34 DEBUG db-gateway Cache hit for key 357
+2026-09-28 09:36:36 INFO order-api User 240 logged in
+2026-09-28 09:36:38 DEBUG db-gateway Cache hit for key 786
+2026-09-28 09:36:40 INFO order-api Request completed in 672 ms
+2026-09-28 09:36:42 WARN order-api Slow query took 375 ms
+2026-09-28 09:36:44 DEBUG payment-service Cache hit for key 263
+2026-09-28 09:36:46 INFO db-gateway Request completed in 107 ms
+2026-09-28 09:36:48 DEBUG payment-service Cache hit for key 648
+2026-09-28 09:36:50 INFO db-gateway User 779 logged in
+2026-09-28 09:36:52 INFO auth-service Request completed in 644 ms
+2026-09-28 09:36:54 INFO auth-service User 66 logged in
+2026-09-28 09:36:56 INFO payment-service User 270 logged in
+2026-09-28 09:36:58 DEBUG payment-service Cache hit for key 186
+2026-09-28 09:37:00 INFO auth-service User 364 logged in
+2026-09-28 09:37:02 INFO db-gateway User 885 logged in
+2026-09-28 09:37:04 WARN payment-service Slow query took 656 ms
+2026-09-28 09:37:06 DEBUG db-gateway Cache hit for key 476
+2026-09-28 09:37:08 INFO order-api User 813 logged in
+2026-09-28 09:37:10 INFO auth-service Request completed in 680 ms
+2026-09-28 09:37:12 INFO auth-service Request completed in 831 ms
+2026-09-28 09:37:14 WARN order-api Slow query took 66 ms
+2026-09-28 09:37:16 INFO db-gateway User 424 logged in
+2026-09-28 09:37:18 WARN payment-service Slow query took 36 ms
+2026-09-28 09:37:20 DEBUG auth-service Cache hit for key 273
+2026-09-28 09:37:22 WARN payment-service Slow query took 241 ms
+2026-09-28 09:37:24 DEBUG payment-service Cache hit for key 338
+2026-09-28 09:37:26 WARN order-api Slow query took 310 ms
+2026-09-28 09:37:28 WARN payment-service Slow query took 588 ms
+2026-09-28 09:37:30 INFO db-gateway User 888 logged in
+2026-09-28 09:37:32 DEBUG payment-service Cache hit for key 847
+2026-09-28 09:37:34 DEBUG order-api Cache hit for key 95
+2026-09-28 09:37:36 DEBUG auth-service Cache hit for key 502
+2026-09-28 09:37:38 INFO payment-service User 332 logged in
+2026-09-28 09:37:40 WARN payment-service Slow query took 598 ms
+2026-09-28 09:37:42 INFO payment-service Request completed in 876 ms
+2026-09-28 09:37:44 DEBUG auth-service Cache hit for key 803
+2026-09-28 09:37:46 WARN payment-service Slow query took 450 ms
+2026-09-28 09:37:48 INFO order-api User 706 logged in
+2026-09-28 09:37:50 INFO auth-service Request completed in 160 ms
+2026-09-28 09:37:52 INFO payment-service Request completed in 314 ms
+2026-09-28 09:37:54 INFO order-api User 104 logged in
+2026-09-28 09:37:56 INFO db-gateway User 704 logged in
+2026-09-28 09:37:58 WARN auth-service Slow query took 429 ms
+2026-09-28 09:38:00 DEBUG db-gateway Cache hit for key 348
+2026-09-28 09:38:02 INFO payment-service Request completed in 211 ms
+2026-09-28 09:38:04 INFO auth-service Request completed in 143 ms
+2026-09-28 09:38:06 INFO db-gateway User 720 logged in
+2026-09-28 09:38:08 INFO auth-service Request completed in 54 ms
+2026-09-28 09:38:10 DEBUG auth-service Cache hit for key 117
+2026-09-28 09:38:12 INFO db-gateway Request completed in 144 ms
+2026-09-28 09:38:14 WARN auth-service Slow query took 188 ms
+2026-09-28 09:38:16 INFO payment-service User 653 logged in
+2026-09-28 09:38:18 INFO order-api Request completed in 864 ms
+2026-09-28 09:38:20 WARN auth-service Slow query took 362 ms
+2026-09-28 09:38:22 INFO payment-service User 753 logged in
+2026-09-28 09:38:24 INFO order-api Request completed in 725 ms
+2026-09-28 09:38:26 INFO auth-service User 275 logged in
+2026-09-28 09:38:28 DEBUG auth-service Cache hit for key 49
+2026-09-28 09:38:30 INFO auth-service User 422 logged in
+2026-09-28 09:38:32 DEBUG order-api Cache hit for key 15
+2026-09-28 09:38:34 DEBUG auth-service Cache hit for key 673
+2026-09-28 09:38:36 WARN order-api Slow query took 566 ms
+2026-09-28 09:38:38 DEBUG db-gateway Cache hit for key 900
+2026-09-28 09:38:40 DEBUG db-gateway Cache hit for key 437
+2026-09-28 09:38:42 DEBUG db-gateway Cache hit for key 397
+2026-09-28 09:38:44 INFO db-gateway User 784 logged in
+2026-09-28 09:38:46 WARN db-gateway Slow query took 828 ms
+2026-09-28 09:38:48 INFO auth-service User 249 logged in
+2026-09-28 09:38:50 DEBUG db-gateway Cache hit for key 251
+2026-09-28 09:38:52 INFO auth-service User 93 logged in
+2026-09-28 09:38:54 INFO auth-service Request completed in 420 ms
+2026-09-28 09:38:56 DEBUG db-gateway Cache hit for key 567
+2026-09-28 09:38:58 DEBUG db-gateway Cache hit for key 596
+2026-09-28 09:39:00 INFO db-gateway Request completed in 769 ms
+2026-09-28 09:39:02 WARN order-api Slow query took 611 ms
+2026-09-28 09:39:04 WARN payment-service Slow query took 849 ms
+2026-09-28 09:39:06 WARN order-api Slow query took 734 ms
+2026-09-28 09:39:08 INFO db-gateway Request completed in 543 ms
+2026-09-28 09:39:10 DEBUG order-api Cache hit for key 78
+2026-09-28 09:39:12 INFO order-api User 273 logged in
+2026-09-28 09:39:14 WARN order-api Slow query took 539 ms
+2026-09-28 09:39:16 WARN payment-service Slow query took 150 ms
+2026-09-28 09:39:18 INFO order-api Request completed in 541 ms
+2026-09-28 09:39:20 INFO payment-service User 837 logged in
+2026-09-28 09:39:22 DEBUG payment-service Cache hit for key 694
+2026-09-28 09:39:24 INFO payment-service User 846 logged in
+2026-09-28 09:39:26 WARN payment-service Slow query took 660 ms
+2026-09-28 09:39:28 INFO order-api Request completed in 395 ms
+2026-09-28 09:39:30 DEBUG db-gateway Cache hit for key 130
+2026-09-28 09:39:32 WARN payment-service Slow query took 724 ms
+2026-09-28 09:39:34 DEBUG db-gateway Cache hit for key 110
+2026-09-28 09:39:36 DEBUG order-api Cache hit for key 683
+2026-09-28 09:39:38 DEBUG db-gateway Cache hit for key 683
+2026-09-28 09:39:40 INFO order-api Request completed in 410 ms
+2026-09-28 09:39:42 DEBUG db-gateway Cache hit for key 716
+2026-09-28 09:39:44 INFO db-gateway Request completed in 654 ms
+2026-09-28 09:39:46 WARN payment-service Slow query took 782 ms
+2026-09-28 09:39:48 INFO auth-service User 701 logged in
+2026-09-28 09:39:50 INFO order-api User 505 logged in
+2026-09-28 09:39:52 INFO order-api User 540 logged in
+2026-09-28 09:39:54 DEBUG db-gateway Cache hit for key 263
+2026-09-28 09:39:56 INFO payment-service Request completed in 5 ms
+2026-09-28 09:39:58 DEBUG auth-service Cache hit for key 609
+2026-09-28 09:40:00 INFO order-api User 740 logged in
+2026-09-28 09:40:02 DEBUG order-api Cache hit for key 266
+2026-09-28 09:40:04 INFO order-api User 859 logged in
+2026-09-28 09:40:06 WARN auth-service Slow query took 542 ms
+2026-09-28 09:40:08 WARN auth-service Slow query took 211 ms
+2026-09-28 09:40:10 INFO db-gateway User 816 logged in
+2026-09-28 09:40:12 DEBUG order-api Cache hit for key 49
+2026-09-28 09:40:14 WARN db-gateway Slow query took 380 ms
+2026-09-28 09:40:16 INFO order-api Request completed in 422 ms
+2026-09-28 09:40:18 WARN order-api Slow query took 365 ms
+2026-09-28 09:40:20 INFO db-gateway User 875 logged in
+2026-09-28 09:40:22 INFO payment-service User 877 logged in
+2026-09-28 09:40:24 DEBUG auth-service Cache hit for key 686
+2026-09-28 09:40:26 INFO order-api User 885 logged in
+2026-09-28 09:40:28 INFO auth-service Request completed in 779 ms
+2026-09-28 09:40:30 WARN db-gateway Slow query took 407 ms
+2026-09-28 09:40:32 WARN db-gateway Slow query took 663 ms
+2026-09-28 09:40:34 INFO auth-service Request completed in 612 ms
+2026-09-28 09:40:36 WARN db-gateway Slow query took 722 ms
+2026-09-28 09:40:38 WARN db-gateway Slow query took 489 ms
+2026-09-28 09:40:40 INFO auth-service User 455 logged in
+2026-09-28 09:40:42 WARN db-gateway Slow query took 143 ms
+2026-09-28 09:40:44 INFO payment-service Request completed in 763 ms
+2026-09-28 09:40:46 INFO db-gateway User 559 logged in
+2026-09-28 09:40:48 INFO order-api Request completed in 572 ms
+2026-09-28 09:40:50 DEBUG db-gateway Cache hit for key 793
+2026-09-28 09:40:52 WARN auth-service Slow query took 97 ms
+2026-09-28 09:40:54 INFO auth-service User 589 logged in
+2026-09-28 09:40:56 INFO auth-service Request completed in 513 ms
+2026-09-28 09:40:58 INFO payment-service Request completed in 582 ms
+2026-09-28 09:41:00 WARN auth-service Slow query took 848 ms
+2026-09-28 09:41:02 INFO order-api User 499 logged in
+2026-09-28 09:41:04 INFO db-gateway Request completed in 868 ms
+2026-09-28 09:41:06 INFO db-gateway User 841 logged in
+2026-09-28 09:41:08 INFO payment-service Request completed in 333 ms
+2026-09-28 09:41:10 DEBUG payment-service Cache hit for key 535
+2026-09-28 09:41:12 INFO payment-service Request completed in 556 ms
+2026-09-28 09:41:14 DEBUG order-api Cache hit for key 93
+2026-09-28 09:41:16 DEBUG db-gateway Cache hit for key 266
+2026-09-28 09:41:18 DEBUG db-gateway Cache hit for key 528
+2026-09-28 09:41:20 WARN auth-service Slow query took 319 ms
+2026-09-28 09:41:22 DEBUG payment-service Cache hit for key 892
+2026-09-28 09:41:24 WARN db-gateway Slow query took 882 ms
+2026-09-28 09:41:26 DEBUG order-api Cache hit for key 211
+2026-09-28 09:41:28 INFO auth-service User 217 logged in
+2026-09-28 09:41:30 DEBUG db-gateway Cache hit for key 677
+2026-09-28 09:41:32 WARN payment-service Slow query took 379 ms
+2026-09-28 09:41:34 DEBUG payment-service Cache hit for key 472
+2026-09-28 09:41:36 INFO order-api Request completed in 13 ms
+2026-09-28 09:41:38 INFO db-gateway Request completed in 583 ms
+2026-09-28 09:41:40 DEBUG auth-service Cache hit for key 285
+2026-09-28 09:41:40 CRITICAL db-gateway Out of memory: killed process 4312
+2026-09-28 09:41:42 INFO db-gateway User 303 logged in
+2026-09-28 09:41:44 INFO payment-service User 826 logged in
+2026-09-28 09:41:46 WARN db-gateway Slow query took 750 ms
+2026-09-28 09:41:48 WARN payment-service Slow query took 213 ms
+2026-09-28 09:41:50 INFO payment-service Request completed in 449 ms
+2026-09-28 09:41:52 INFO auth-service Request completed in 145 ms
+2026-09-28 09:41:54 INFO db-gateway Request completed in 189 ms
+2026-09-28 09:41:56 INFO payment-service Request completed in 515 ms
+2026-09-28 09:41:58 INFO order-api User 826 logged in
+2026-09-28 09:42:00 INFO payment-service User 154 logged in
+2026-09-28 09:42:02 INFO auth-service User 481 logged in
+2026-09-28 09:42:04 INFO payment-service Request completed in 808 ms
+2026-09-28 09:42:06 INFO auth-service Request completed in 429 ms
+2026-09-28 09:42:08 INFO order-api User 728 logged in
+2026-09-28 09:42:10 WARN db-gateway Slow query took 163 ms
+2026-09-28 09:42:12 INFO payment-service Request completed in 47 ms
+2026-09-28 09:42:14 INFO db-gateway User 305 logged in
+2026-09-28 09:42:16 INFO order-api User 728 logged in
+2026-09-28 09:42:18 INFO order-api User 269 logged in
+2026-09-28 09:42:20 DEBUG payment-service Cache hit for key 160
+2026-09-28 09:42:22 INFO db-gateway User 38 logged in
+2026-09-28 09:42:24 DEBUG db-gateway Cache hit for key 164
+2026-09-28 09:42:26 DEBUG payment-service Cache hit for key 675
+2026-09-28 09:42:28 INFO payment-service Request completed in 480 ms
+2026-09-28 09:42:30 INFO payment-service User 445 logged in
+2026-09-28 09:42:32 DEBUG db-gateway Cache hit for key 122
+2026-09-28 09:42:34 INFO order-api Request completed in 130 ms
+2026-09-28 09:42:36 INFO auth-service User 302 logged in
+2026-09-28 09:42:38 WARN order-api Slow query took 23 ms
+2026-09-28 09:42:40 WARN auth-service Slow query took 210 ms
+2026-09-28 09:42:42 WARN order-api Slow query took 889 ms
+2026-09-28 09:42:44 DEBUG auth-service Cache hit for key 211
+2026-09-28 09:42:46 INFO db-gateway User 282 logged in
+2026-09-28 09:42:48 INFO order-api User 38 logged in
+2026-09-28 09:42:50 INFO auth-service Request completed in 357 ms
+2026-09-28 09:42:52 INFO payment-service User 677 logged in
+2026-09-28 09:42:54 DEBUG auth-service Cache hit for key 181
+2026-09-28 09:42:56 DEBUG order-api Cache hit for key 465
+2026-09-28 09:42:58 WARN payment-service Slow query took 342 ms
+2026-09-28 09:43:00 DEBUG payment-service Cache hit for key 117
+2026-09-28 09:43:02 DEBUG auth-service Cache hit for key 746
+2026-09-28 09:43:04 WARN auth-service Slow query took 769 ms
+2026-09-28 09:43:06 INFO payment-service Request completed in 614 ms
+2026-09-28 09:43:08 WARN db-gateway Slow query took 41 ms
+2026-09-28 09:43:10 INFO auth-service Request completed in 530 ms
+2026-09-28 09:43:12 INFO db-gateway Request completed in 667 ms
+2026-09-28 09:43:14 INFO db-gateway User 596 logged in
+2026-09-28 09:43:16 DEBUG auth-service Cache hit for key 388
+2026-09-28 09:43:18 INFO order-api User 178 logged in
+2026-09-28 09:43:20 INFO order-api Request completed in 10 ms
+2026-09-28 09:43:22 WARN order-api Slow query took 157 ms
+2026-09-28 09:43:24 DEBUG auth-service Cache hit for key 114
+2026-09-28 09:43:26 INFO auth-service User 161 logged in
+2026-09-28 09:43:28 WARN order-api Slow query took 553 ms
+2026-09-28 09:43:30 INFO order-api Request completed in 484 ms
+2026-09-28 09:43:32 INFO payment-service User 587 logged in
+2026-09-28 09:43:34 INFO order-api Request completed in 380 ms
+2026-09-28 09:43:36 INFO order-api User 418 logged in
+2026-09-28 09:43:38 INFO payment-service User 250 logged in
+2026-09-28 09:43:40 INFO auth-service User 20 logged in
+2026-09-28 09:43:42 INFO auth-service Request completed in 505 ms
+2026-09-28 09:43:44 INFO payment-service User 94 logged in
+2026-09-28 09:43:46 INFO payment-service User 866 logged in
+2026-09-28 09:43:48 DEBUG auth-service Cache hit for key 439
+2026-09-28 09:43:50 WARN auth-service Slow query took 303 ms
+2026-09-28 09:43:52 INFO auth-service Request completed in 684 ms
+2026-09-28 09:43:54 INFO payment-service User 254 logged in
+2026-09-28 09:43:56 INFO payment-service Request completed in 79 ms
+2026-09-28 09:43:58 DEBUG auth-service Cache hit for key 47
+2026-09-28 09:44:00 INFO payment-service User 839 logged in
+2026-09-28 09:44:02 DEBUG order-api Cache hit for key 91
+2026-09-28 09:44:04 WARN payment-service Slow query took 16 ms
+2026-09-28 09:44:06 DEBUG db-gateway Cache hit for key 810
+2026-09-28 09:44:08 WARN auth-service Slow query took 95 ms
+2026-09-28 09:44:10 INFO payment-service User 756 logged in
+2026-09-28 09:44:12 INFO payment-service User 821 logged in
+2026-09-28 09:44:14 DEBUG payment-service Cache hit for key 213
+2026-09-28 09:44:16 INFO payment-service User 707 logged in
+2026-09-28 09:44:18 DEBUG auth-service Cache hit for key 7
+2026-09-28 09:44:20 WARN auth-service Slow query took 514 ms
+2026-09-28 09:44:22 DEBUG auth-service Cache hit for key 774
+2026-09-28 09:44:24 INFO payment-service Request completed in 892 ms
+2026-09-28 09:44:26 INFO order-api Request completed in 810 ms
+2026-09-28 09:44:28 WARN auth-service Slow query took 671 ms
+2026-09-28 09:44:30 DEBUG payment-service Cache hit for key 827
+2026-09-28 09:44:32 WARN db-gateway Slow query took 143 ms
+2026-09-28 09:44:34 DEBUG order-api Cache hit for key 59
+2026-09-28 09:44:36 WARN payment-service Slow query took 450 ms
+2026-09-28 09:44:38 WARN order-api Slow query took 770 ms
+2026-09-28 09:44:40 INFO auth-service Request completed in 806 ms
+2026-09-28 09:44:42 DEBUG payment-service Cache hit for key 250
+2026-09-28 09:44:44 INFO db-gateway User 580 logged in
+2026-09-28 09:44:46 INFO db-gateway User 593 logged in
+2026-09-28 09:44:48 INFO db-gateway Request completed in 684 ms
+2026-09-28 09:44:50 WARN order-api Slow query took 850 ms
+2026-09-28 09:44:52 WARN db-gateway Slow query took 94 ms
+2026-09-28 09:44:54 INFO order-api User 684 logged in
+2026-09-28 09:44:56 WARN order-api Slow query took 9 ms
+2026-09-28 09:44:58 DEBUG db-gateway Cache hit for key 623
+2026-09-28 09:45:00 INFO auth-service Request completed in 836 ms
+2026-09-28 09:45:02 WARN db-gateway Slow query took 425 ms
+2026-09-28 09:45:04 DEBUG db-gateway Cache hit for key 154
+2026-09-28 09:45:06 DEBUG payment-service Cache hit for key 90
+2026-09-28 09:45:08 DEBUG db-gateway Cache hit for key 869
+2026-09-28 09:45:10 WARN auth-service Slow query took 304 ms
+2026-09-28 09:45:12 DEBUG auth-service Cache hit for key 282
+2026-09-28 09:45:14 INFO db-gateway User 422 logged in
+2026-09-28 09:45:16 INFO auth-service User 226 logged in
+2026-09-28 09:45:18 INFO db-gateway Request completed in 847 ms
+2026-09-28 09:45:20 INFO db-gateway User 282 logged in
+2026-09-28 09:45:22 DEBUG payment-service Cache hit for key 376
+2026-09-28 09:45:24 INFO payment-service User 364 logged in
+2026-09-28 09:45:26 WARN order-api Slow query took 516 ms
+2026-09-28 09:45:28 DEBUG payment-service Cache hit for key 882
+2026-09-28 09:45:30 INFO db-gateway User 544 logged in
+2026-09-28 09:45:32 INFO auth-service Request completed in 878 ms
+2026-09-28 09:45:34 INFO auth-service User 256 logged in
+2026-09-28 09:45:36 WARN order-api Slow query took 759 ms
+2026-09-28 09:45:38 DEBUG auth-service Cache hit for key 570
+2026-09-28 09:45:40 WARN payment-service Slow query took 776 ms
+2026-09-28 09:45:42 DEBUG db-gateway Cache hit for key 82
+2026-09-28 09:45:44 DEBUG db-gateway Cache hit for key 277
+2026-09-28 09:45:46 DEBUG order-api Cache hit for key 317
+2026-09-28 09:45:48 WARN auth-service Slow query took 675 ms
+2026-09-28 09:45:50 WARN db-gateway Slow query took 377 ms
+2026-09-28 09:45:52 INFO auth-service Request completed in 859 ms
+2026-09-28 09:45:54 INFO db-gateway Request completed in 463 ms
+2026-09-28 09:45:56 DEBUG payment-service Cache hit for key 751
+2026-09-28 09:45:58 WARN auth-service Slow query took 338 ms
+2026-09-28 09:46:00 WARN payment-service Slow query took 12 ms
+2026-09-28 09:46:02 DEBUG payment-service Cache hit for key 197
+2026-09-28 09:46:04 INFO db-gateway Request completed in 182 ms
+2026-09-28 09:46:06 DEBUG payment-service Cache hit for key 303
+2026-09-28 09:46:08 INFO db-gateway Request completed in 566 ms
+2026-09-28 09:46:10 WARN auth-service Slow query took 829 ms
+2026-09-28 09:46:12 WARN db-gateway Slow query took 731 ms
+2026-09-28 09:46:14 DEBUG order-api Cache hit for key 336
+2026-09-28 09:46:16 INFO db-gateway User 850 logged in
+2026-09-28 09:46:18 INFO order-api Request completed in 148 ms
+2026-09-28 09:46:20 INFO auth-service User 171 logged in
+2026-09-28 09:46:22 DEBUG payment-service Cache hit for key 702
+2026-09-28 09:46:24 DEBUG auth-service Cache hit for key 606
+2026-09-28 09:46:26 DEBUG db-gateway Cache hit for key 800
+2026-09-28 09:46:28 DEBUG payment-service Cache hit for key 283
+2026-09-28 09:46:30 DEBUG db-gateway Cache hit for key 207
+2026-09-28 09:46:32 DEBUG db-gateway Cache hit for key 417
+2026-09-28 09:46:34 INFO order-api Request completed in 375 ms
+2026-09-28 09:46:36 WARN order-api Slow query took 399 ms
+2026-09-28 09:46:38 WARN order-api Slow query took 120 ms
+2026-09-28 09:46:40 INFO db-gateway User 518 logged in
+2026-09-28 09:46:42 WARN payment-service Slow query took 802 ms
+2026-09-28 09:46:44 DEBUG auth-service Cache hit for key 160
+2026-09-28 09:46:46 DEBUG db-gateway Cache hit for key 682
+2026-09-28 09:46:48 WARN auth-service Slow query took 286 ms
+2026-09-28 09:46:50 WARN order-api Slow query took 739 ms
+2026-09-28 09:46:52 WARN order-api Slow query took 876 ms
+2026-09-28 09:46:54 INFO order-api Request completed in 465 ms
+2026-09-28 09:46:56 INFO auth-service Request completed in 549 ms
+2026-09-28 09:46:58 DEBUG order-api Cache hit for key 621
+2026-09-28 09:47:00 DEBUG order-api Cache hit for key 254
+2026-09-28 09:47:02 INFO auth-service Request completed in 776 ms
+2026-09-28 09:47:04 WARN auth-service Slow query took 319 ms
+2026-09-28 09:47:06 INFO payment-service User 745 logged in
+2026-09-28 09:47:08 INFO db-gateway Request completed in 408 ms
+2026-09-28 09:47:10 DEBUG db-gateway Cache hit for key 406
+2026-09-28 09:47:12 WARN order-api Slow query took 363 ms
+2026-09-28 09:47:14 INFO payment-service User 549 logged in
+2026-09-28 09:47:16 WARN order-api Slow query took 141 ms
+2026-09-28 09:47:18 INFO order-api User 703 logged in
+2026-09-28 09:47:20 INFO db-gateway Request completed in 73 ms
+2026-09-28 09:47:22 INFO payment-service Request completed in 596 ms
+2026-09-28 09:47:24 WARN db-gateway Slow query took 224 ms
+2026-09-28 09:47:26 DEBUG payment-service Cache hit for key 159
+2026-09-28 09:47:28 INFO payment-service User 517 logged in
+2026-09-28 09:47:30 INFO order-api Request completed in 39 ms
+2026-09-28 09:47:32 WARN order-api Slow query took 139 ms
+2026-09-28 09:47:34 WARN order-api Slow query took 734 ms
+2026-09-28 09:47:36 INFO order-api Request completed in 627 ms
+2026-09-28 09:47:38 INFO payment-service User 321 logged in
+2026-09-28 09:47:40 INFO order-api Request completed in 697 ms
+2026-09-28 09:47:42 INFO order-api Request completed in 28 ms
+2026-09-28 09:47:44 INFO auth-service Request completed in 863 ms
+2026-09-28 09:47:46 DEBUG payment-service Cache hit for key 8
+2026-09-28 09:47:48 WARN payment-service Slow query took 462 ms
+2026-09-28 09:47:50 DEBUG auth-service Cache hit for key 461
+2026-09-28 09:47:52 INFO auth-service Request completed in 555 ms
+2026-09-28 09:47:54 WARN auth-service Slow query took 500 ms
+2026-09-28 09:47:56 INFO order-api User 649 logged in
+2026-09-28 09:47:58 DEBUG order-api Cache hit for key 548
+2026-09-28 09:48:00 INFO payment-service User 574 logged in
+2026-09-28 09:48:02 INFO order-api User 864 logged in
+2026-09-28 09:48:04 INFO payment-service Request completed in 801 ms
+2026-09-28 09:48:06 INFO auth-service User 835 logged in
+2026-09-28 09:48:08 DEBUG db-gateway Cache hit for key 388
+2026-09-28 09:48:10 INFO order-api Request completed in 746 ms
+2026-09-28 09:48:12 INFO auth-service Request completed in 414 ms
+2026-09-28 09:48:14 WARN db-gateway Slow query took 236 ms
+2026-09-28 09:48:16 INFO order-api Request completed in 549 ms
+2026-09-28 09:48:18 DEBUG order-api Cache hit for key 78
+2026-09-28 09:48:20 WARN payment-service Slow query took 446 ms
+2026-09-28 09:48:22 WARN db-gateway Slow query took 200 ms
+2026-09-28 09:48:24 DEBUG payment-service Cache hit for key 119
+2026-09-28 09:48:26 WARN payment-service Slow query took 294 ms
+2026-09-28 09:48:28 INFO auth-service User 758 logged in
+2026-09-28 09:48:30 INFO db-gateway Request completed in 801 ms
+2026-09-28 09:48:32 INFO payment-service User 796 logged in
+2026-09-28 09:48:34 DEBUG payment-service Cache hit for key 578
+2026-09-28 09:48:36 DEBUG auth-service Cache hit for key 762
+2026-09-28 09:48:38 INFO auth-service Request completed in 367 ms
+2026-09-28 09:48:40 INFO db-gateway User 18 logged in
+2026-09-28 09:48:42 DEBUG order-api Cache hit for key 647
+2026-09-28 09:48:44 INFO order-api User 368 logged in
+2026-09-28 09:48:46 DEBUG auth-service Cache hit for key 50
+2026-09-28 09:48:48 INFO order-api User 436 logged in
+2026-09-28 09:48:50 INFO db-gateway Request completed in 796 ms
+2026-09-28 09:48:52 INFO order-api Request completed in 114 ms
+2026-09-28 09:48:54 INFO order-api User 801 logged in
+2026-09-28 09:48:56 WARN db-gateway Slow query took 89 ms
+2026-09-28 09:48:58 DEBUG order-api Cache hit for key 492
+2026-09-28 09:49:00 INFO auth-service User 545 logged in
+2026-09-28 09:49:02 DEBUG db-gateway Cache hit for key 219
+2026-09-28 09:49:04 DEBUG order-api Cache hit for key 677
+2026-09-28 09:49:06 INFO payment-service Request completed in 732 ms
+2026-09-28 09:49:08 DEBUG db-gateway Cache hit for key 798
+2026-09-28 09:49:10 WARN payment-service Slow query took 836 ms
+2026-09-28 09:49:12 WARN payment-service Slow query took 146 ms
+2026-09-28 09:49:14 INFO auth-service Request completed in 224 ms
+2026-09-28 09:49:16 WARN auth-service Slow query took 14 ms
+2026-09-28 09:49:18 INFO db-gateway Request completed in 804 ms
+2026-09-28 09:49:20 INFO payment-service Request completed in 591 ms
+2026-09-28 09:49:22 INFO order-api Request completed in 351 ms
+2026-09-28 09:49:24 WARN db-gateway Slow query took 792 ms
+2026-09-28 09:49:26 INFO auth-service User 254 logged in
+2026-09-28 09:49:28 INFO order-api User 396 logged in
+2026-09-28 09:49:30 INFO auth-service Request completed in 610 ms
+2026-09-28 09:49:32 INFO payment-service User 455 logged in
+2026-09-28 09:49:34 WARN db-gateway Slow query took 784 ms
+2026-09-28 09:49:36 INFO auth-service Request completed in 887 ms
+2026-09-28 09:49:38 WARN payment-service Slow query took 414 ms
+2026-09-28 09:49:40 INFO db-gateway User 713 logged in
+2026-09-28 09:49:42 WARN payment-service Slow query took 126 ms
+2026-09-28 09:49:44 WARN db-gateway Slow query took 69 ms
+2026-09-28 09:49:46 INFO payment-service User 10 logged in
+2026-09-28 09:49:48 WARN payment-service Slow query took 654 ms
+2026-09-28 09:49:50 INFO payment-service Request completed in 101 ms
+2026-09-28 09:49:52 INFO auth-service User 43 logged in
+2026-09-28 09:49:54 WARN auth-service Slow query took 416 ms
+2026-09-28 09:49:56 INFO payment-service User 798 logged in
+2026-09-28 09:49:58 INFO db-gateway Request completed in 274 ms
